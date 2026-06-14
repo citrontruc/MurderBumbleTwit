@@ -5,6 +5,7 @@
   - [Comment résoudre les meurtres](#comment-résoudre-les-meurtres)
   - [Les jetons](#les-jetons)
   - [Faire une hypothèse](#faire-une-hypothèse)
+  - [Note aux organisateurs](#note-aux-organisateurs)
 
 ## But de la murder
 
@@ -41,3 +42,7 @@ Toutes les heures, les joueurs peuvent compléter leurs piles de jetons afin d'a
 ## Faire une hypothèse
 
 Si vous pensez avoir résolu l'enquête, vous pouvez payer deux jetons pour soumettre votre hypothèse à l'un des organisateurs. Si tous les détails sont bons, ils vous féliciteront. S'il reste des parties incomplètes et / ou fausses, ils vous répondront par une question. Si vous parvenez à trouver tous, s'il vous plait, laissez les autres joueurs terminer leur enquête.
+
+## Note aux organisateurs
+
+L'esprit des lois est plus important que les règles écrites. Si vous constatez que ce sont toujours les mêmes qui vous posent des questions et que certaines personnes sont exclues, vous pouvez mentir sur les résultats des questions ou répondre que vous êtes épuisé et ne pourrez leur répondre que plus tard.
