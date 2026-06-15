@@ -1,6 +1,6 @@
-# Nom du personnage
+# Edmond Red
 
-- [Nom du personnage](#nom-du-personnage)
+- [Edmond Red](#edmond-red)
   - [Avez-vous tué quelqu'un ?](#avez-vous-tué-quelquun-)
   - [Qui êtes-vous ?](#qui-êtes-vous-)
   - [Objectifs](#objectifs)

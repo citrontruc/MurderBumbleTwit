@@ -1,6 +1,6 @@
-# Nom du personnage
+# Patience Bertham
 
-- [Nom du personnage](#nom-du-personnage)
+- [Patience Bertham](#patience-bertham)
   - [Avez-vous tué quelqu'un ?](#avez-vous-tué-quelquun-)
   - [Qui êtes-vous ?](#qui-êtes-vous-)
   - [Objectifs](#objectifs)
@@ -11,6 +11,8 @@
   - [Conseils de jeux](#conseils-de-jeux)
 
 ## Avez-vous tué quelqu'un ?
+
+Vous avez tué Lord BumbleTwit.
 
 ## Qui êtes-vous ?
 

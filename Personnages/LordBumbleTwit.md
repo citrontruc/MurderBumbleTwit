@@ -1,6 +1,6 @@
-# Nom du personnage
+# Lord BumbleTwit
 
-- [Nom du personnage](#nom-du-personnage)
+- [Lord BumbleTwit](#lord-bumbletwit)
   - [Avez-vous tué quelqu'un ?](#avez-vous-tué-quelquun-)
   - [Qui êtes-vous ?](#qui-êtes-vous-)
   - [Objectifs](#objectifs)
@@ -13,6 +13,8 @@
 ## Avez-vous tué quelqu'un ?
 
 ## Qui êtes-vous ?
+
+La tragédie de Lord BumbleTwit est d'être un personnage secondaire convaincu d'être le personnage principal.
 
 ## Objectifs
 

@@ -1,6 +1,6 @@
-# Nom du personnage
+# Marcy Butler
 
-- [Nom du personnage](#nom-du-personnage)
+- [Marcy Butler](#marcy-butler)
   - [Avez-vous tué quelqu'un ?](#avez-vous-tué-quelquun-)
   - [Qui êtes-vous ?](#qui-êtes-vous-)
   - [Objectifs](#objectifs)

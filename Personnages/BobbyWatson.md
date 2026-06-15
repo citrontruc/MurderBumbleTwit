@@ -1,6 +1,6 @@
-# Nom du personnage
+# Bobby Watson
 
-- [Nom du personnage](#nom-du-personnage)
+- [Bobby Watson](#bobby-watson)
   - [Avez-vous tué quelqu'un ?](#avez-vous-tué-quelquun-)
   - [Qui êtes-vous ?](#qui-êtes-vous-)
   - [Objectifs](#objectifs)

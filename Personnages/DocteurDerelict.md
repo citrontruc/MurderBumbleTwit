@@ -1,6 +1,6 @@
-# Nom du personnage
+# Docteur Derelict
 
-- [Nom du personnage](#nom-du-personnage)
+- [Docteur Derelict](#docteur-derelict)
   - [Avez-vous tué quelqu'un ?](#avez-vous-tué-quelquun-)
   - [Qui êtes-vous ?](#qui-êtes-vous-)
   - [Objectifs](#objectifs)

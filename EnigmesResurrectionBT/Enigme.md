@@ -2,6 +2,7 @@
 
 - [But de l'enigme](#but-de-lenigme)
   - [Texte à remplir](#texte-à-remplir)
+  - [Une épice](#une-épice)
   - [Un lieu](#un-lieu)
   - [Une émotion](#une-émotion)
 
@@ -9,6 +10,10 @@
 
 Chers amis,
 La formule que vous allez mettre au point est un de mes secrets les mieux gardés. Je suis parvenu à mettre au point un breuvage exceptionnel. Une potion si potente qu'elle pourrait même réveiller un mort. Il s'agit d'un secret si merveilleux que je ne voulais pas qu'il disparaisse avec moi et si dangeureux que je ne voulais pas le confier au premier venu. J'ai jugé bon de le dissimuler dans certaines enigmes tortueuses. Quand vous aurez résolu toutes les enigmes, vous pourrez recomposer la formule :
+
+## Une épice
+
+Elle est indispensable.
 
 ## Un lieu
 

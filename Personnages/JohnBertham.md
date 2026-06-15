@@ -1,6 +1,6 @@
-# Nom du personnage
+# John Bertham
 
-- [Nom du personnage](#nom-du-personnage)
+- [John Bertham](#john-bertham)
   - [Avez-vous tué quelqu'un ?](#avez-vous-tué-quelquun-)
   - [Qui êtes-vous ?](#qui-êtes-vous-)
   - [Objectifs](#objectifs)

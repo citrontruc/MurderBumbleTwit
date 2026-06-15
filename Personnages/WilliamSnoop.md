@@ -1,24 +1,33 @@
-# Nom du personnage
+# William "weekly" Snoop
 
-- [Nom du personnage](#nom-du-personnage)
+- [William "weekly" Snoop](#william-weekly-snoop)
   - [Avez-vous tué quelqu'un ?](#avez-vous-tué-quelquun-)
   - [Qui êtes-vous ?](#qui-êtes-vous-)
   - [Objectifs](#objectifs)
   - [Votre opinion sur les autres personnages](#votre-opinion-sur-les-autres-personnages)
   - [Compétences](#compétences)
+  - [Règle spéciale](#règle-spéciale)
   - [Informations](#informations)
   - [Informations que vous voulez garder secrètes](#informations-que-vous-voulez-garder-secrètes)
   - [Conseils de jeux](#conseils-de-jeux)
 
 ## Avez-vous tué quelqu'un ?
 
+Je rapporte l'information, je ne la fais pas.
+
 ## Qui êtes-vous ?
 
 ## Objectifs
 
+- Trouver des éléments
+
 ## Votre opinion sur les autres personnages
 
 ## Compétences
+
+## Règle spéciale
+
+William Snoop ne peut pas utiliser ses jetons pour demander une information directement. Il peut par contre dépenser un jeton pour qu'on lui répète la dernière question posée et la réponse que l'on a donné.
 
 ## Informations
 

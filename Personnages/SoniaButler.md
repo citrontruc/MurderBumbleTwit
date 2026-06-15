@@ -1,6 +1,6 @@
-# Nom du personnage
+# Sonia Butler
 
-- [Nom du personnage](#nom-du-personnage)
+- [Sonia Butler](#sonia-butler)
   - [Avez-vous tué quelqu'un ?](#avez-vous-tué-quelquun-)
   - [Qui êtes-vous ?](#qui-êtes-vous-)
   - [Objectifs](#objectifs)
@@ -11,6 +11,8 @@
   - [Conseils de jeux](#conseils-de-jeux)
 
 ## Avez-vous tué quelqu'un ?
+
+Allez donc ! Une majordome ne tue pas son employeur ! C'est contraire à l'étiquette !
 
 ## Qui êtes-vous ?
 

@@ -29,6 +29,8 @@ Afin d'obtenir des informations supplémentaires, les joueurs peuvent utiliser d
 - Bleu : informations historiques, relations entre les personnages, inimitiés... C'est notamment une manière d'identifier des informations liées à Lord Bertham ou de demander quel personnage possède quelles informations.
 - Blanc : informations scientifiques, analyses d'empreintes, analyse de toxicologie, analyses autres... Attention : vous obtiendrez le résultat précis de ce que vous demandez. Si on demande l'analyse d'une boisson, vous pouvez obtenir comme information "la boisson contient des traces de belladones" sans savoir si c'est important ou si c'est en rapport avec l'affaire.
 
+Certaines personnes possèdent des jetons noirs. Ils possèdent des règles spéciales.
+
 Afin de poser une question à l'inspecteur ou Lord BumbleTwit, il faut dépenser deux jetons dont un de la couleur nécessaire. Les joueurs ne peuvent pas échanger de jetons entre eux, si vous voulez obtenir une information d'une couleur que vous n'avez pas, il faudra convaincre quelqu'un de venir donner un jeton avec vous et vous obtiendrez tous les deux la réponse à la question.
 
 Si vous avez la bonne couleur de jeton, vous pouvez dépenser deux jetons pour obtenir tout seul la réponse à une question.
