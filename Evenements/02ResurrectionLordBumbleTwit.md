@@ -6,6 +6,14 @@ Cet événement arrive après que les joueurs soient parvenus à trouver comment
 
 ## Texte
 
+- Médecin : (avant de partir voir BumbleTwit) Je vous préviens, ce remède n'est qu'une pile de bêtise.
+- Détective : Essayons tout de même, voulez-vous ?
+- Médecin : Tenez, je suis prêt à faire un pari. Si ce remède fonctionne, je démissionne et je pars élever des lamas au Pérou.
+- Détective : à votre guise.
+
+L'acteur du médecin légiste se change pour prendre la tenue de BumbleTwit. Le détective revient seul dans le salon.
+
+- Détective : Notre médecin légiste m'a demandé de l'excuser. Il doit partir élever des lamas au Pérou.
 - LB : Miséricorde. J'ai bien cru que j'allais y passer. Détective, j'avais des doutes sur votre capacité à appliquer des consignes simples, je suppose que je vous dois des excuses.
 - Détective : Ah, je n'ai fait que mon devoir, ce sont les invités qui ont résolu les enigmes que vous aviez laissé.
 - LB : Bien sûr que ce sont les invités. A votre avis, pourquoi est-ce que je ne vous ai pas confié d'indices ?

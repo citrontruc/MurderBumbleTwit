@@ -19,7 +19,9 @@ Les coupables des meurtres concernés devront au contraire faire de leur mieux a
 
 ## Comment résoudre les meurtres
 
-Afin de résoudre les meurtres, les participants auront accès à un certain nombre d'indices. Certains joueurs possèdent des indices d'entrée de jeu, le reste des indices seront distribué au cours de la partie lorsque des questions sont posées. Les joueurs sont libres d'échanger entre eux sur les événements qui ont lieu et qui les concernent. Tous les joueurs par contre vont essayer de dissimuler certaines informations.
+Afin de résoudre les meurtres, les participants auront accès à un certain nombre d'indices. Certains joueurs possèdent des indices d'entrée de jeu, le reste des indices seront distribué au cours de la partie lorsque des questions sont posées. N'hésitez pas à échanger sur le meurtre avec les autres invités ! Tous les joueurs par contre vont essayer de dissimuler certaines informations.
+
+Vous pouvez à tout moment demander aux organisateurs leur avis sur les événements. Ils ne vous donneront ppas forcément de nouveaux indices mais leur manière de voir les chose pourra sans doute vous donner de nouvelles idées.
 
 ## Les jetons
 
