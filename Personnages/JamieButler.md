@@ -1,6 +1,6 @@
-# Gabriel Bertham
+# Jamie Butler
 
-- [Gabriel Bertham](#gabriel-bertham)
+- [Jamie Butler](#jamie-butler)
   - [Avez-vous tué quelqu'un ?](#avez-vous-tué-quelquun-)
   - [Qui êtes-vous ?](#qui-êtes-vous-)
   - [Informations](#informations)
@@ -16,11 +16,11 @@ Non.
 
 ## Qui êtes-vous ?
 
-Lors des dernières années de votre père, Lord BumbleTwit était présent quotidiennement à la maison pour invoquer l'esprit de votre défunte mère et alléger son chagrin. L'accusation faite par l'esprit de votre père lors de la séance de divination vous a beaucoup perturbé. Vous avez l'intention de trouver le fin mot de cette histoire... En protégrant votre famille.
+Jamie Butler, la jeune soeur de Sonia Butler (la cheffe majordome de Lord BumbleTwit). Vous êtes obsédée par le spiritisme et les fantômes. Le fait que ce soit votre soeur travaille pour le medium le plus talentueux de notre époque est un sujet de fierté perpétuel.
+
+Lors des grandes réceptions et des séances de spiritisme, vous servez d'extra (aide à la cuisine et au service). Cela vous permet de cotoyer votre héros.
 
 ## Informations
-
-Votre frère a un caractère sanguin. Vous saviez qu'il avait une relation houleuse avec votre père. A vrai dire, quelques heures avant la mort de celui-ci, vous avez entendu les deux se disputer. Quand vous en avez parlé à Lord BumbleTwit plus tard, il vous a encouragé à vous taire.
 
 ## Informations que vous voulez garder secrètes
 
@@ -28,12 +28,12 @@ Il y a plusieurs informations que vous préféreriez dissimuler. Vous ne pouvez 
 
 ## Objectifs
 
-- Faites en sorte que John Bertham ne soit pas accusé de la mort de Lord BumbleTwit.
-- Trouvez qui a tué Lord Bertham.
+- Découvrir qui a tué Lord BumbleTwit et comment il est mort.
+- Découvrir un secret embarrassant sur votre soeur (Sonia Butler - cheffe majordome) mais aussi Bobby Watson (valet de pied de Lord BumbleTwit), TybaltLeFol (le meilleur ami de BumbleTwit) et le docteur Derelict.
 
 ## Votre opinion sur les autres personnages
 
-**Lord BumbleTwit** : un gentleman à l'ancienne. Roublard, fantasque et orgueilleux mais bien attentionné.
+**Sonia Butler** : Vous êtes maladivement jaloux de Sonia et vous convoitez sa position de toute votre âme. Elle a beau vous couvrir de cadeaux et d'affection, c'est presque puire ! Votre amour propre en souffre ! A vrai dire, vous êtes jaloux de quiconque approche BumbleTwit.
 
 ## Compétences
 

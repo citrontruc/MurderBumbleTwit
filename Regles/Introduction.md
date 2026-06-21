@@ -1,0 +1,7 @@
+# Introduction
+
+Rappeler aux joueurs que le meurtre de Lord BumbleTwit a eu lieu la veille. Vous avez été réuni par la police car vous étiez tous présent la veille lors de la soirée pendant laquelle Lord BumbleTwit est mort.
+
+On vous a tous donné une fiche de personnage qui est à priori secrète. Vous pouvez partager toutes les informations que vous jugerez utile. Vous pouvez bien tendu mentir sur les informations. Le but de ce jeu est de retrouver qui a tué Lord BumbleTwit et comment. En plus de pouvoir échanger entre vous sur les différents éléments de la soirée, il y aura plusieurs occasions où vous aurez des documents à votre disposition. Ils vous permettront de cerner le caractère des autres personnages et ainsi de comprendre qui pourrait avoir un mobile ou connaître des informations sur l'enquête.
+
+Tout au long de l'enquête, il y a deux organisateurs auprès de qui vous pourrez obtenir des informations supplémentaires. Vous pouvez leur demander leur avis. Si vous êtes coincés sur un détail, ils pourront vous indiquer quelqu'un à même de répondre à votre question ou vous rediriger vers une piste intéressante. En plus des conseils généraux qu'ils pourront vous donner, ils pourront répondre à des questions plus précises, analyser des indices pour trouver des empeintes ou encore chercher dans les archives de la police du comté. Ces informations nécessiteront cependant de dépenser des jetons (informations sur les jetons dans l'onglet [Regles](Regles.md)) du jeu.

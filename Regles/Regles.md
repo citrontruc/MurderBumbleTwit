@@ -17,6 +17,8 @@ Le but de la murder des de résoudre l'enigme liés aux trois meurtres de la par
 
 Les coupables des meurtres concernés devront au contraire faire de leur mieux afin de pouvoir dissimuler leur implication dans le meurtre. En plus du fait de trouver qui sont les coupables, les joueurs possèdent des objectifs personnels qu'ils doivent essayer de résoudre.
 
+En fin de soirée, on demandera aux invités d'indiquer quel est le mobile de chaque personne présent à la soirée.
+
 ## Comment résoudre les meurtres
 
 Afin de résoudre les meurtres, les participants auront accès à un certain nombre d'indices. Certains joueurs possèdent des indices d'entrée de jeu, le reste des indices seront distribué au cours de la partie lorsque des questions sont posées. N'hésitez pas à échanger sur le meurtre avec les autres invités ! Tous les joueurs par contre vont essayer de dissimuler certaines informations.

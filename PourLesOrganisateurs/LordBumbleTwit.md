@@ -5,11 +5,7 @@
 
 ## Déroulé
 
-Pour répondre à la question centrale : oui, Lord BumbleTwit est un arnaqueur. Par contre, il y a bien un magicien présent lors de la soirée. Il s'agit en réalité de l'inspecteur Lazare qui possède la capacité de faire revenir temporairement les morts à la vie. S'il a fait cela, c'est parce qu'il voit dans la résurrection de Lord BumbleTwit un moyen de résoudre une bonne fois pour toute le mystère autour de la mort de son bon ami Lord Bertham.
-
-Lord BumbleTwit ne voulait hélas pas lacher le morceau et se doutait (à raison) que c'était parce qu'un des coupables était quelqu'un de proche de Lord Bertham. Convaincu qu'il s'agissait de son cousin Pierce Bertham (qui n'a d'ailleurs jamais caché sa colère vis à vis du peu qu'il a obtenu dans le testament de Lord Bertham), Lord BumbleTwit imagine la mise en scène grotesque qui mènera à sa mort. S'il connait bien l'occulte, il sait aussi que des charlatans mal intentionnés l'utilisent pour soutirer l'argent des crédules. Ils connaissent des techniques pour faire croire que les morts communiquent avec eux et possèdent des outils pour simuler la voix des morts. Lors de ces visites de courtoisie, Lord BumbleTwit est d'ailleurs repéré par Aiden Rapier et Gideon Judas qui se mettent à avoir des doutes sur la véracité des expériences de Lord BumbleTwit.
-
-L'idée de BumbleTwit est la suivante : il va utiliser les techniques de ces imposteurs afin de simuler la présence de Lord Bertham. Le secret de la mise en scène tient à l'ambiance de mystère qui doit se créer : les lumières seraient tamisées, ce qui cacherait les manipulations du medium, la table autour de laquelle les gens vont se réunir a été couvert d'une nappe trop longue afin de masquer les mouvements des jambes et Lord BumbleTwit peut ainsi la déplacer à son aise (une inspection de la table peut d'ailleurs révéler la supercherie). L'empreinte sur la fenêtre a été faite discrètement avec de l'huile au préalable. Pour la faire apparaitre, il fallait refroidir le verre afin de créer de la condensation. C'est là que le complice de Lord BumbleTwit rentre en scène : il s'agit de son meilleur ami Tybalt le plaisantin. Celui-ci avait vu dans toute la séance l'occasion de faire une bonne farce aux autres participants et a accepté promptement de participer à la réception.
+Brouillon ChatGPT.
 
 ---
 
