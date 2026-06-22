@@ -20,6 +20,8 @@ Scientifique sagace et pragmatique, vous croyez dur comme fer en la supériorit�
 
 ## Informations
 
+**IMPORTANT** : Vous fumez.
+
 Quelques jours avant sa mort, Lord Bertham voulait léguer sa fortune à Lord BumbleTwit. Cependant, il est mort avant d'avoir pu changer le contenu de son testament et sa fortune a finalement été partagé entre ses trois enfants équitablement. C'est sans doute mieux comme cela.
 
 Malheureusement au cours du repas, on vous a servi par accident un plat contenant des cacahuètes. Etant allergique, vous avez dû vous rendre aux cabinets de toute urgence et vous avez raté la séance de spiritisme.

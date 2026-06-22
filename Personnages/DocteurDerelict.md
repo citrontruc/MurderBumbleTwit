@@ -18,6 +18,8 @@ Médecin alcoolique et coureur, vous parvenez difficilement à survivre en tant 
 
 ## Informations
 
+**IMPORTANT** : Vous fumez.
+
 ## Informations que vous voulez garder secrètes
 
 Il y a plusieurs informations que vous préféreriez dissimuler. Vous ne pouvez pas révéler ces informations de vous-mêmes. Si un autre joueur vous pose des questions sur ces sujets, évitez les questions, échappez vous ou indignez-vous qu'on vous soupçonne de tels faits. Si un autre joueur vous présente l'information (il a découvert le peau aux roses), vous pouvez reconnaitre les faits mais que à ce joueur.

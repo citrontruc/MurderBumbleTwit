@@ -12,7 +12,7 @@
 
 ## Avez-vous tué quelqu'un ?
 
-Vous avez tué Lord BumbleTwit. Vous l'avez poignardé.
+Non.
 
 ## Qui êtes-vous ?
 

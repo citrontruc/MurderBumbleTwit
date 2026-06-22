@@ -12,7 +12,7 @@
 
 ## Avez-vous tué quelqu'un ?
 
-Non.
+Non. Mais vous avez planté un couteau dans le corps de BumbleTwit.
 
 ## Qui êtes-vous ?
 
@@ -22,6 +22,10 @@ Lors des dernières années de votre père, Lord BumbleTwit était présent quot
 
 Votre frère a un caractère sanguin. Vous saviez qu'il avait une relation houleuse avec votre père. A vrai dire, quelques heures avant la mort de celui-ci, vous avez entendu les deux se disputer. Quand vous en avez parlé à Lord BumbleTwit plus tard, il vous a encouragé à vous taire.
 
+En parcourant le couloir pour aller dans le bureau de BumbleTwit, vous avez croisé votre frère à l'allure très remonté. Il ne vous a rien dit, c'est à peine s'il a fait attention à vous. Cependant, en rentrant dans le bureau, la pièce était étrangement silencieuse. Le fauteuil de BumbleTwit faisait dos à la porte et il vous a fallu vous rapprocher pour vous rendre compte que BumbleTwit était mort. Encore une fois, le caractère de votre frère lui avait joué des tours ! Dans un instant de panique, vous avez tiré sur la sonnette pour appeler à l'aide avant de réaliser qu'on allait vous accuser vous ou votre frère pour la mort. Quand Sonia Butler a essayé d'ouvrir la porte du bureau, vous avez bloqué la porte et en imitant au mieux la voix de Lord BumbleTwit, vous lui avez sommé de partir. Puis, afin de brouiller les pistes et essayer de protéger votre frère, vous avez pris le coupe papier et vous l'avez planté dans le corps de BumbleTwit. Vous avez présenté vos excuses au cadavre et vous vous êtes eclipsé discrètement.
+
+Le corps a été découvert une heure plus tard.
+
 ## Informations que vous voulez garder secrètes
 
 Il y a plusieurs informations que vous préféreriez dissimuler. Vous ne pouvez pas révéler ces informations de vous-mêmes. Si un autre joueur vous pose des questions sur ces sujets, évitez les questions, échappez vous ou indignez-vous qu'on vous soupçonne de tels faits. Si un autre joueur vous présente l'information (il a découvert le peau aux roses), vous pouvez reconnaitre les faits mais que à ce joueur.
@@ -29,7 +33,6 @@ Il y a plusieurs informations que vous préféreriez dissimuler. Vous ne pouvez 
 ## Objectifs
 
 - Faites en sorte que John Bertham ne soit pas accusé de la mort de Lord BumbleTwit.
-- Trouvez qui a tué Lord Bertham.
 
 ## Votre opinion sur les autres personnages
 
