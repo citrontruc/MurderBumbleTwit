@@ -3,7 +3,7 @@
 - [Jamie Butler](#jamie-butler)
   - [Avez-vous tué quelqu'un ?](#avez-vous-tué-quelquun-)
   - [Qui êtes-vous ?](#qui-êtes-vous-)
-  - [Informations](#informations)
+  - [Votre emploi du temps](#votre-emploi-du-temps)
   - [Informations que vous voulez garder secrètes](#informations-que-vous-voulez-garder-secrètes)
   - [Objectifs](#objectifs)
   - [Votre opinion sur les autres personnages](#votre-opinion-sur-les-autres-personnages)
@@ -20,7 +20,7 @@ Jamie Butler, la jeune soeur de Sonia Butler (la cheffe majordome de Lord Bumble
 
 Lors des grandes réceptions et des séances de spiritisme, vous servez d'extra (aide à la cuisine et au service). Cela vous permet de cotoyer votre héros.
 
-## Informations
+## Votre emploi du temps
 
 ## Informations que vous voulez garder secrètes
 

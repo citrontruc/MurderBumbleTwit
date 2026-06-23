@@ -3,7 +3,7 @@
 - [Amanda Red](#amanda-red)
   - [Avez-vous tué quelqu'un ?](#avez-vous-tué-quelquun-)
   - [Qui êtes-vous ?](#qui-êtes-vous-)
-  - [Informations](#informations)
+  - [Votre emploi du temps](#votre-emploi-du-temps)
   - [Informations que vous voulez garder secrètes](#informations-que-vous-voulez-garder-secrètes)
   - [Objectifs](#objectifs)
   - [Votre opinion sur les autres personnages](#votre-opinion-sur-les-autres-personnages)
@@ -18,11 +18,13 @@ Non.
 
 Scientifique sagace et pragmatique, vous croyez dur comme fer en la supériorité de la raison sur les croyances. Vous travailliez en tant que conseillère financière de Lord Bertham. C'est à ce moment que vous avez rencontré Lord BumbleTwit.
 
-## Informations
+## Votre emploi du temps
 
 **IMPORTANT** : Vous fumez.
 
 Quelques jours avant sa mort, Lord Bertham voulait léguer sa fortune à Lord BumbleTwit. Cependant, il est mort avant d'avoir pu changer le contenu de son testament et sa fortune a finalement été partagé entre ses trois enfants équitablement. C'est sans doute mieux comme cela.
+
+Vous êtes arrivée en avance à votre rendez-vous avec Lord BumbleTwit. Vous savez que ce grigou aime bien contrôler les gens alors par pur esprit de provocation, vous êtes arrivés en avance pour essayer de surprendre ses préparatifs. Sans attendre qu'un domestique vous conduise jusqu'à lui, vous avez filé vers son bureau où vous espériez le trouver affairé à je ne sais quel tour de prestidigigateur. Quel n'a pas été votre surprise en découvrant Sonia Butler - la cheffe majordome - en train de fouiller dans ses papiers. Prise sur le fait, elle a rougi, bafouillé une excuse et est partie chercher BumbleTwit. Vous auriez bien aimé savoir ce qu'elle cherchait quand BumbleTwit est apparu dans l'embrasure de la porte. Sourire au lèvre, élégance anglais impeccable. Le succès d'un bon arnaqueur tient aux apparences dit-on. Sur ce volet, BumbleTwit excelle.
 
 Malheureusement au cours du repas, on vous a servi par accident un plat contenant des cacahuètes. Etant allergique, vous avez dû vous rendre aux cabinets de toute urgence et vous avez raté la séance de spiritisme.
 
@@ -45,4 +47,5 @@ Il y a plusieurs informations que vous préféreriez dissimuler. Vous ne pouvez 
 
 ## Conseils de jeux
 
-Pour des raisons pratiques, vous n'avez pas pu assister à la séance de spiritisme. La première étape sera de comprendre ce qui s'est passé lors de la séance.
+- Pour des raisons pratiques, vous n'avez pas pu assister à la séance de spiritisme. La première étape sera de comprendre ce qui s'est passé lors de la séance.
+- Préparez à l'avance un mensonge pour justifier votre absence.

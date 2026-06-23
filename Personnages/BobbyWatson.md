@@ -3,7 +3,7 @@
 - [Bobby Watson](#bobby-watson)
   - [Avez-vous tué quelqu'un ?](#avez-vous-tué-quelquun-)
   - [Qui êtes-vous ?](#qui-êtes-vous-)
-  - [Informations](#informations)
+  - [Votre emploi du temps](#votre-emploi-du-temps)
   - [Informations que vous voulez garder secrètes](#informations-que-vous-voulez-garder-secrètes)
   - [Objectifs](#objectifs)
   - [Votre opinion sur les autres personnages](#votre-opinion-sur-les-autres-personnages)
@@ -18,7 +18,7 @@ Vous avez tué Lord BumbleTwit. Vous avez empoisonné son swazzle avec de l'arse
 
 Membre du personnel de Lord BumbleTwit. Vous êtes aussi le fiancé de Patience Bertham.
 
-## Informations
+## Votre emploi du temps
 
 **IMPORTANT** : Vous fumez.
 

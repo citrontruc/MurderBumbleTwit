@@ -3,7 +3,7 @@
 - [John Bertham](#john-bertham)
   - [Avez-vous tué quelqu'un ?](#avez-vous-tué-quelquun-)
   - [Qui êtes-vous ?](#qui-êtes-vous-)
-  - [Informations](#informations)
+  - [Votre emploi du temps](#votre-emploi-du-temps)
   - [Informations que vous voulez garder secrètes](#informations-que-vous-voulez-garder-secrètes)
   - [Objectifs](#objectifs)
   - [Votre opinion sur les autres personnages](#votre-opinion-sur-les-autres-personnages)
@@ -16,7 +16,7 @@ Non.
 
 ## Qui êtes-vous ?
 
-## Informations
+## Votre emploi du temps
 
 Juste avant la mort de votre père, vous avez appris que celui-ci souhaitait modifier son testament pour léguer sa fortune à Lord BumbleTwit
 

@@ -3,7 +3,7 @@
 - [Gabriel Bertham](#gabriel-bertham)
   - [Avez-vous tué quelqu'un ?](#avez-vous-tué-quelquun-)
   - [Qui êtes-vous ?](#qui-êtes-vous-)
-  - [Informations](#informations)
+  - [Votre emploi du temps](#votre-emploi-du-temps)
   - [Informations que vous voulez garder secrètes](#informations-que-vous-voulez-garder-secrètes)
   - [Objectifs](#objectifs)
   - [Votre opinion sur les autres personnages](#votre-opinion-sur-les-autres-personnages)
@@ -18,11 +18,13 @@ Non. Mais vous avez planté un couteau dans le corps de BumbleTwit.
 
 Lors des dernières années de votre père, Lord BumbleTwit était présent quotidiennement à la maison pour invoquer l'esprit de votre défunte mère et alléger son chagrin. L'accusation faite par l'esprit de votre père lors de la séance de divination vous a beaucoup perturbé. Vous avez l'intention de trouver le fin mot de cette histoire... En protégrant votre famille.
 
-## Informations
+## Votre emploi du temps
 
 Votre frère a un caractère sanguin. Vous saviez qu'il avait une relation houleuse avec votre père. A vrai dire, quelques heures avant la mort de celui-ci, vous avez entendu les deux se disputer. Quand vous en avez parlé à Lord BumbleTwit plus tard, il vous a encouragé à vous taire.
 
-En parcourant le couloir pour aller dans le bureau de BumbleTwit, vous avez croisé votre frère à l'allure très remonté. Il ne vous a rien dit, c'est à peine s'il a fait attention à vous. Cependant, en rentrant dans le bureau, la pièce était étrangement silencieuse. Le fauteuil de BumbleTwit faisait dos à la porte et il vous a fallu vous rapprocher pour vous rendre compte que BumbleTwit était mort. Encore une fois, le caractère de votre frère lui avait joué des tours ! Dans un instant de panique, vous avez tiré sur la sonnette pour appeler à l'aide avant de réaliser qu'on allait vous accuser vous ou votre frère pour la mort. Quand Sonia Butler a essayé d'ouvrir la porte du bureau, vous avez bloqué la porte et en imitant au mieux la voix de Lord BumbleTwit, vous lui avez sommé de partir. Puis, afin de brouiller les pistes et essayer de protéger votre frère, vous avez pris le coupe papier et vous l'avez planté dans le corps de BumbleTwit. Vous avez présenté vos excuses au cadavre et vous vous êtes eclipsé discrètement.
+En parcourant le couloir pour aller dans le bureau de BumbleTwit, vous avez croisé votre frère à l'allure très remonté. Il ne vous a rien dit, c'est à peine s'il a fait attention à vous. Cependant, en rentrant dans le bureau, la pièce était étrangement silencieuse. Le fauteuil de BumbleTwit faisait dos à la porte et il vous a fallu vous rapprocher pour vous rendre compte que BumbleTwit était mort. Encore une fois, le caractère de votre frère lui avait joué des tours !
+
+Rester pragmatique. Personne ne pourra accuser votre frère si un témoignage indique que Lord BumbleTwit était encore vivant ! Vous avez tiré sur la sonnette des domestiques pour appeler Sonia Butler. Quand Sonia Butler a essayé d'ouvrir la porte du bureau, vous avez bloqué la porte et en imitant au mieux la voix de Lord BumbleTwit, vous lui avez sommé de partir en arguant qu'il s'agissait d'une erreur. Puis, afin de brouiller les pistes et essayer de protéger votre frère, vous avez pris le coupe papier et vous l'avez planté dans le corps de BumbleTwit. Vous avez présenté vos excuses au cadavre et vous vous êtes eclipsé discrètement. Personne ne vous a vu entrer et personne ne vous a vu sortir.
 
 Le corps a été découvert une heure plus tard.
 

@@ -3,7 +3,7 @@
 - [Patience Bertham](#patience-bertham)
   - [Avez-vous tué quelqu'un ?](#avez-vous-tué-quelquun-)
   - [Qui êtes-vous ?](#qui-êtes-vous-)
-  - [Informations](#informations)
+  - [Votre emploi du temps](#votre-emploi-du-temps)
   - [Informations que vous voulez garder secrètes](#informations-que-vous-voulez-garder-secrètes)
   - [Objectifs](#objectifs)
   - [Votre opinion sur les autres personnages](#votre-opinion-sur-les-autres-personnages)
@@ -16,7 +16,7 @@ Vous avez tué Lord BumbleTwit. Vous avez empoisonné son verre avec de la tetro
 
 ## Qui êtes-vous ?
 
-## Informations
+## Votre emploi du temps
 
 En voyant Lord BumbleTwit accuser votre frère, votre sang n'a fait qu'un tour. Vous n'allez pas laisser BumbleTwit vous gacher la vie une deuxième fois ! Vous décidez qu'il est temps de le tuer. La tetrodoxine est un poison qui est présent dans certains poissons comestibles (ils doivent alors être préparés avec soin). Les poissons que vous avez mangé ce soir notamment étaient parmi ces poissons. En descendant en cuisine, vous avez réussi à mettre la main sur de la tetrodoxine.
 

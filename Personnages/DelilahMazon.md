@@ -3,7 +3,7 @@
 - [Delilah Mazon](#delilah-mazon)
   - [Avez-vous tué quelqu'un ?](#avez-vous-tué-quelquun-)
   - [Qui êtes-vous ?](#qui-êtes-vous-)
-  - [Informations](#informations)
+  - [Votre emploi du temps](#votre-emploi-du-temps)
   - [Informations que vous voulez garder secrètes](#informations-que-vous-voulez-garder-secrètes)
   - [Objectifs](#objectifs)
   - [Votre opinion sur les autres personnages](#votre-opinion-sur-les-autres-personnages)
@@ -18,7 +18,7 @@ Non.
 
 Votre vrai nom est Carla BlueFinch. Vous étiez la domestique de Lord Bertham. Après la mort de celui-ci, vous n'avez pas pu retrouver un nouvel employeur : les gens se méfient d'une domestique dont le maitre est empoisonné dans des circonstances mystérieuses. Vous avez réussi à retrouver un métier comme livreuse amazon sous-payée. Il faut bien vivre.
 
-## Informations
+## Votre emploi du temps
 
 ## Informations que vous voulez garder secrètes
 
@@ -40,3 +40,5 @@ Il y a plusieurs informations que vous préféreriez dissimuler. Vous ne pouvez 
 ## Compétences
 
 ## Conseils de jeux
+
+- Il vous faut un mensonge pour expliquer votre présence.

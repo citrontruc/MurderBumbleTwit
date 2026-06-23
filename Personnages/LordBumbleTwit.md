@@ -3,7 +3,7 @@
 - [Lord BumbleTwit](#lord-bumbletwit)
   - [Avez-vous tué quelqu'un ?](#avez-vous-tué-quelquun-)
   - [Qui êtes-vous ?](#qui-êtes-vous-)
-  - [Informations](#informations)
+  - [Votre emploi du temps](#votre-emploi-du-temps)
   - [Informations que vous voulez garder secrètes](#informations-que-vous-voulez-garder-secrètes)
   - [Objectifs](#objectifs)
   - [Votre opinion sur les autres personnages](#votre-opinion-sur-les-autres-personnages)
@@ -18,7 +18,7 @@ Vous avez tué Lord Bertham.
 
 La tragédie de Lord BumbleTwit est d'être un personnage secondaire convaincu d'être le personnage principal.
 
-## Informations
+## Votre emploi du temps
 
 Vous avez reçu une note avec écrit "Je sais ce que vous avez fait". Vous avez peur que cinq ans plus tard, quelqu'un dévoile au monde que vous avez tué Lord Bertham. C'est alors que vous décidez d'organisé la fausse séance de spiritisme.
 

@@ -3,7 +3,7 @@
 - [Docteur Derelict](#docteur-derelict)
   - [Avez-vous tué quelqu'un ?](#avez-vous-tué-quelquun-)
   - [Qui êtes-vous ?](#qui-êtes-vous-)
-  - [Informations](#informations)
+  - [Votre emploi du temps](#votre-emploi-du-temps)
   - [Informations que vous voulez garder secrètes](#informations-que-vous-voulez-garder-secrètes)
   - [Objectifs](#objectifs)
   - [Votre opinion sur les autres personnages](#votre-opinion-sur-les-autres-personnages)
@@ -16,7 +16,7 @@
 
 Médecin alcoolique et coureur, vous parvenez difficilement à survivre en tant que praticien. Votre haleine avinée repousse les clients les plus amateurs de risque et vos gains servent à acheter des cadeaux à vos maitresses. Votre source de revenu la plus stable est Lord BumbleTwit qui vous commande souvent des inventions ingénieuses qu'il présente ensuite lors de ses séances de spiritisme. Machines à fumée, salpêtre pour simuler des explosions... Vous êtes l'expert dans le domaine. Lord BumbleTwit sert aussi d'intermédiaire pour vendre vos inventions à des théâtres, cirques et autres.
 
-## Informations
+## Votre emploi du temps
 
 **IMPORTANT** : Vous fumez.
 
