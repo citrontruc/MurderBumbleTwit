@@ -7,6 +7,7 @@
   - [Table qui bouge](#table-qui-bouge)
   - [Empreintes de main sur la fenêtre](#empreintes-de-main-sur-la-fenêtre)
   - [Lampes qui tremblent](#lampes-qui-tremblent)
+  - [Fumée](#fumée)
 
 ## Astuces
 
@@ -31,3 +32,7 @@ Elles sont faites à l'huile et apparaissent en relief lorsque de la buée se fo
 ## Lampes qui tremblent
 
 Tybalt depuis son passage secret peut secouer les fils électriques.
+
+## Fumée
+
+Machine à fumée mentionnée dans la lettre.
