@@ -4,6 +4,8 @@
   - [Avez-vous tué quelqu'un ?](#avez-vous-tué-quelquun-)
   - [Qui êtes-vous ?](#qui-êtes-vous-)
   - [Votre emploi du temps](#votre-emploi-du-temps)
+    - [Lord Bertham](#lord-bertham)
+    - [Lord BumbleTwit](#lord-bumbletwit)
   - [Informations que vous voulez garder secrètes](#informations-que-vous-voulez-garder-secrètes)
   - [Objectifs](#objectifs)
   - [Votre opinion sur les autres personnages](#votre-opinion-sur-les-autres-personnages)
@@ -18,7 +20,13 @@ Non.
 
 ## Votre emploi du temps
 
-Juste avant la mort de votre père, vous avez appris que celui-ci souhaitait modifier son testament pour léguer sa fortune à Lord BumbleTwit
+### Lord Bertham
+
+Juste avant la mort de votre père, vous avez appris que celui-ci souhaitait modifier son testament pour léguer sa fortune à Lord BumbleTwit.
+
+### Lord BumbleTwit
+
+Quelle farce ! Vous êtes arrivé à la soirée de Lord BumbleTwit tôt dans la soirée.
 
 ## Informations que vous voulez garder secrètes
 

@@ -4,6 +4,7 @@
   - [Avez-vous tué quelqu'un ?](#avez-vous-tué-quelquun-)
   - [Qui êtes-vous ?](#qui-êtes-vous-)
   - [Votre emploi du temps](#votre-emploi-du-temps)
+    - [Lord Bertham](#lord-bertham)
   - [Informations que vous voulez garder secrètes](#informations-que-vous-voulez-garder-secrètes)
   - [Objectifs](#objectifs)
   - [Votre opinion sur les autres personnages](#votre-opinion-sur-les-autres-personnages)
@@ -19,6 +20,10 @@ Médecin alcoolique et coureur, vous parvenez difficilement à survivre en tant 
 ## Votre emploi du temps
 
 **IMPORTANT** : Vous fumez.
+
+### Lord Bertham
+
+La matinée de la mort de Lord Bertham, vous étiez en train d'étudier la dynamique des fluides dans le cellier du manoir quand vous avez entendu des bruits de pas loin de là où vous vous trouviez. Avisant la porte de service, vous avez vu Jamie Butler (frère de Sonia Butler. Un taré) qui rentrait. Comme vous étiez camouflé dans votre environnement naturel, il ne vous a pas remarqué. Le fait ne vous semblait guère intéressant jusqu'à ce que vous entendiez des cris venant de l'étage.
 
 ## Informations que vous voulez garder secrètes
 

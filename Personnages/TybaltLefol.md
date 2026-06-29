@@ -32,7 +32,7 @@ Vous avez appris un mois plus tard la mort de Lord Bertham par un courrier de Lo
 
 ### Lord BumbleTwit
 
-Vous deviez servir de complie à Lord BumbleTwit. Ce matin, vous avez revu ensemble les détails de la soirée pour la séance de spiritisme. Vous deviez joué le rôle de "l'esprit dérangé qui revient à la vie". Caché dans un passage secret attenant à la salle de spiritisme, vous secouez des chaines et tirez sur les fils électriques pour faire osciller les lampes.
+Vous deviez servir de complice à Lord BumbleTwit. Ce matin, vous avez revu ensemble les détails de la soirée pour la séance de spiritisme. Vous deviez joué le rôle de "l'esprit dérangé qui revient à la vie". Caché dans un passage secret attenant à la salle de spiritisme, vous secouez des chaines et tirez sur les fils électriques pour faire osciller les lampes.
 
 Après la réunion de ce matin, vous avez entendu de Lord BumbleTwit que le dernier ingrédient pour la soirée de ce soir devait arriver dans un colis dans la journée. Vous lui avez alors avoué que vous avez trahi son secret auprès de Lord Bertham. Lord BumbleTwit est alors rentré dans une rage folle et vous a ordonné de partir.
 
@@ -58,6 +58,7 @@ Il y a plusieurs informations que vous préféreriez dissimuler. Vous ne pouvez 
 ## Objectifs
 
 - Trouvez qui a tué Lord BumbleTwit.
+- Découvrez le lien de tous les invités avec Lord Bertham.
 
 ## Votre opinion sur les autres personnages
 

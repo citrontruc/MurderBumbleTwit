@@ -35,6 +35,7 @@ Il y a plusieurs informations que vous préféreriez dissimuler. Vous ne pouvez 
 ## Objectifs
 
 - Faites en sorte que John Bertham ne soit pas accusé de la mort de Lord BumbleTwit.
+- Trouvez pourquoi votre soeur est si distante.
 
 ## Votre opinion sur les autres personnages
 
