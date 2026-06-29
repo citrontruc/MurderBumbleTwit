@@ -34,4 +34,5 @@ Il y a plusieurs informations que vous préféreriez dissimuler. Vous ne pouvez 
 
 ## Conseils de jeux
 
-Vous connaissez beaucoup d'informations que les autres personnes recherchent. Les dévoiler tout d'un coup pourrait être dangereux pour vous car vous livrez alors votre mobile.
+- Vous connaissez beaucoup d'informations que les autres personnes recherchent. Les dévoiler tout d'un coup pourrait être dangereux pour vous car vous livrez alors votre mobile.
+- Amusez-vous bien.

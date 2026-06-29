@@ -59,9 +59,12 @@ Il y a plusieurs informations que vous préféreriez dissimuler. Vous ne pouvez 
 
 - Trouvez qui a tué Lord BumbleTwit.
 - Découvrez le lien de tous les invités avec Lord Bertham.
+- Essayez de convaincre le Docteur Derelict de monter un nouveau spectacle avec vous.
 
 ## Votre opinion sur les autres personnages
 
 ## Compétences
 
 ## Conseils de jeux
+
+- Amusez-vous bien.

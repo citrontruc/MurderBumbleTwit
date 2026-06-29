@@ -25,7 +25,7 @@ Cheffe majordome de Lord BumbleTwit, vous vous occupez de tout !
 
 ### Lord BumbleTwit
 
-Lord BumbleTwit a dit avoir une réunion de la plus haute importance dans l'après-midi et a refusé de vous en dire plus. 
+Lord BumbleTwit a dit avoir une réunion de la plus haute importance dans l'après-midi et a refusé de vous en dire plus.
 
 ## Informations que vous voulez garder secrètes
 
@@ -44,3 +44,5 @@ Il y a plusieurs informations que vous préféreriez dissimuler. Vous ne pouvez 
 ## Compétences
 
 ## Conseils de jeux
+
+- Amusez-vous bien.

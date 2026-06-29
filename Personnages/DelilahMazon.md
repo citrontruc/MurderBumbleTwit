@@ -59,4 +59,5 @@ Il y a plusieurs informations que vous préféreriez dissimuler. Vous ne pouvez 
 
 ## Conseils de jeux
 
-- Il vous faut un mensonge pour expliquer votre présence.
+- Votre présence vous rend immédiatement suspect.
+- Amusez-vous bien.

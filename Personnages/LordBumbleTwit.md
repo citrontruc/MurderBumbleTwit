@@ -37,3 +37,5 @@ Il y a plusieurs informations que vous préféreriez dissimuler. Vous ne pouvez 
 ## Compétences
 
 ## Conseils de jeux
+
+- Amusez-vous bien.

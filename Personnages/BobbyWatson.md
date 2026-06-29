@@ -57,3 +57,4 @@ Il y a plusieurs informations que vous préféreriez dissimuler. Vous ne pouvez 
 - Tant que personne ne soupçonne BumbleTwit d'être empoisonné, vous n'avez pas besoin de le mentionner.
 - Vous n'avez aucune raison flagrante d'en vouloir à Lord BumbleTwit. Mesurez vos propos.
 - Le fait que vous ayez l'air trop innocent vous rend suspect. Imaginez une histoire bidon ou un prétexte pour paraitre juste suspect comme il faut. Dites par exemple que Lord BumbleTwit desapprouvait votre mariage.
+- Amusez-vous bien.
