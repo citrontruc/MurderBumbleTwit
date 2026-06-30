@@ -18,7 +18,9 @@ Vous avez tué Lord BumbleTwit. Vous avez empoisonné son verre avec de la tetro
 
 ## Votre emploi du temps
 
-En voyant Lord BumbleTwit accuser votre frère, votre sang n'a fait qu'un tour. Vous n'allez pas laisser BumbleTwit vous gacher la vie une deuxième fois ! Vous décidez qu'il est temps de le tuer. La tetrodoxine est un poison qui est présent dans certains poissons comestibles (ils doivent alors être préparés avec soin). Les poissons que vous avez mangé ce soir notamment étaient parmi ces poissons. En descendant en cuisine, vous avez réussi à mettre la main sur de la tetrodoxine.
+En voyant Lord BumbleTwit accuser votre frère, votre sang n'a fait qu'un tour. Vous n'allez pas laisser BumbleTwit vous gacher la vie une deuxième fois ! Vous décidez qu'il est temps de le tuer.
+
+Fouiller dans malette du médecin pour trouver du poison.
 
 ## Informations que vous voulez garder secrètes
 

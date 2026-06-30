@@ -35,7 +35,7 @@ Il y a plusieurs informations que vous préféreriez dissimuler. Vous ne pouvez 
 
 ## Objectifs
 
-- Trouvez un nouvel employeur / une nouvelle employeuse. Critères de sélection : il ne doit avoir tué personne (je n'aurais jamais cru avoir à préciser cela, dans quels temps vivons-nous ?) et il doit être riche.
+- Trouvez une manière de garantir votre avenir financier.
 - Trouvez une manière de pourrir la vie à Amanda Red.
 - Trouvez qui a tué Lord BumbleTwit.
 

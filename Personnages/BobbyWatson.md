@@ -14,11 +14,11 @@
 
 ## Avez-vous tué quelqu'un ?
 
-Vous avez tué Lord BumbleTwit. Vous avez empoisonné son swazzle avec de l'arsenic.
+Non.
 
 ## Qui êtes-vous ?
 
-Membre du personnel de Lord BumbleTwit. Vous êtes aussi le fiancé de Patience Bertham.
+Membre du personnel de Lord BumbleTwit. Vous êtes un homme à tout faire.
 
 ## Votre emploi du temps
 
@@ -36,13 +36,12 @@ Voila qui est fort étrange. Vous avez reçu dans l'après-midi une missive de l
 
 Il y a plusieurs informations que vous préféreriez dissimuler. Vous ne pouvez pas révéler ces informations de vous-mêmes. Si un autre joueur vous pose des questions sur ces sujets, évitez les questions, échappez vous ou indignez-vous qu'on vous soupçonne de tels faits. Si un autre joueur vous présente l'information (il a découvert le peau aux roses), vous pouvez reconnaitre les faits mais que à ce joueur.
 
-- Vous avez agi par amour pour votre fiancée Patience Bertham. En tuant Lord BumbleTwit, vous vouliez qu'elle puisse tourner la page sur cette salle histoire. Elle ne doit pas savoir ce que vous avez fait pour elle.
+- 
 
 ## Objectifs
 
 - Faites en sorte que ni vous ni Patience Bertham ne soyez accusés de la mort de Lord BumbleTwit.
 - Gagner le respect et la considération des membres de la famille Bertham.
-- Trouvez d'où viennent les erreurs dans les comptes de la maison.
 
 ## Votre opinion sur les autres personnages
 

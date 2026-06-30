@@ -18,7 +18,7 @@ Non.
 
 ## Qui êtes-vous ?
 
-Scientifique sagace et pragmatique, vous croyez dur comme fer en la supériorité de la raison sur les croyances. Vous travailliez en tant que conseillère financière de Lord Bertham. C'est à ce moment que vous avez rencontré Lord BumbleTwit.
+Financière sagace et pragmatique, vous croyez dur comme fer en la supériorité de la raison sur les croyances. Vous travailliez en tant que conseillère financière de Lord Bertham. C'est à ce moment que vous avez rencontré Lord BumbleTwit.
 
 ## Votre emploi du temps
 
@@ -34,7 +34,11 @@ Vous êtes arrivée en avance à votre rendez-vous avec Lord BumbleTwit. Vous sa
 
 Après avoir échangé des impolitesses pendant une vingtaine de minutes,
 
-Malheureusement au cours du repas, on vous a servi par accident un plat contenant des cacahuètes. Etant allergique, vous avez dû vous rendre aux cabinets de toute urgence et vous avez raté la séance de spiritisme.
+Malheureusement au cours du repas, on vous a servi par accident un plat contenant des cacahuètes. Avec un sourire gêné, vous avez quitté la table en prétextant un coup de téléphone urgent à passer. Etant allergique, vous avez dû vous rendre aux cabinets de toute urgence. Afin de ne pas embarasser une lady, le reste de la scène ne sera pas dévrit. Toujours est-il que vous avez raté la séance de spiritisme.
+
+Sur le chemin du retour au salon, vous avez trouvé la malette du docteur Derelict qui trainait et vous avez prélevé quelques médicaments contre les allergies puis vous vous êtes arrêtée au salon pour récupérer de votre crise.
+
+Une heure plus tard, Jamie Butler débarquait dans le salon en criant qu'on avait poignardé Lord BumbleTwit.
 
 ## Informations que vous voulez garder secrètes
 
@@ -44,7 +48,8 @@ Il y a plusieurs informations que vous préféreriez dissimuler. Vous ne pouvez 
 
 ## Objectifs
 
-- Trouvez une explication logique à la séance de spiritisme de Lord BumbleTwit.
+- Trouvez une explication rationnelle à la séance de spiritisme de Lord BumbleTwit.
+- Parvenez à conserver une répartie à toute épreuve pendant toute la soirée.
 - Ah oui, résoudre cette histoire de mort de Lord BumbleTwit.
 
 ## Votre opinion sur les autres personnages

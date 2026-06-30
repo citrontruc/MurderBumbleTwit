@@ -10,7 +10,7 @@ Crackers à la gelée de vin rouge, Cottage Cheese Scones, chutney au curry.
 
 Plat :
 
-Fish and Chips de poisson Fugu préparé par notre cheffe.
+Fish and Chips de poissons exotiques préparé par notre cheffe.
 
 Dessert :
 

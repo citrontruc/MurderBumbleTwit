@@ -33,8 +33,9 @@ Il y a plusieurs informations que vous préféreriez dissimuler. Vous ne pouvez 
 
 ## Objectifs
 
+- Découvrez qui a fouillé dans votre malette médicale (indices : 3 personnes)
+- Trouvez quelqu'un qui est prêt à financer votre prochaine invention révolutionnaire !
 - Trouvez qui a tué Lord BumbleTwit.
-- Découvrez qui a fouillé dans votre malette médicale.
 
 ## Votre opinion sur les autres personnages
 
