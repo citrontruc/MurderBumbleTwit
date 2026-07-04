@@ -5,7 +5,7 @@
   - [Qui êtes-vous ?](#qui-êtes-vous-)
   - [Informations](#informations)
     - [Lord Bertham](#lord-bertham)
-    - [Lord BumbleTwit](#lord-bumbletwit)
+    - [5 ans plus tard - Lord BumbleTwit](#5-ans-plus-tard---lord-bumbletwit)
   - [Informations que vous voulez garder secrètes](#informations-que-vous-voulez-garder-secrètes)
   - [Objectifs](#objectifs)
   - [Votre opinion sur les autres personnages](#votre-opinion-sur-les-autres-personnages)
@@ -30,19 +30,19 @@ Lord Bertham n'était pour vous qu'un aristo plein de thunes et en vous n'avez e
 
 Vous avez appris un mois plus tard la mort de Lord Bertham par un courrier de Lord BumbleTwit. Il semblait devasté par les événements.
 
-### Lord BumbleTwit
+### 5 ans plus tard - Lord BumbleTwit
 
 Vous deviez servir de complice à Lord BumbleTwit. Ce matin, vous avez revu ensemble les détails de la soirée pour la séance de spiritisme. Vous deviez joué le rôle de "l'esprit dérangé qui revient à la vie". Caché dans un passage secret attenant à la salle de spiritisme, vous secouez des chaines et tirez sur les fils électriques pour faire osciller les lampes.
 
-Après la réunion de ce matin, vous avez entendu de Lord BumbleTwit que le dernier ingrédient pour la soirée de ce soir devait arriver dans un colis dans la journée. Vous lui avez alors avoué que vous avez trahi son secret auprès de Lord Bertham. Lord BumbleTwit est alors rentré dans une rage folle et vous a ordonné de partir.
+Après la réunion du matin, vous avez entendu de Lord BumbleTwit que le dernier ingrédient pour la soirée de ce soir devait arriver dans un colis dans la journée. Profitant de l'occasion, vous lui avez alors avoué que vous avez trahi son secret auprès de Lord Bertham. Lord BumbleTwit est alors rentré dans une rage folle et vous a ordonné de partir. Vous saviez que Lord BumbleTwit était proche de Lord Bertham et apprendre que c'est par votre faute que leur relation s'est dégradée a dû lui briser le coeur.
 
-Vous avez passé la journée en ville à culpabiliser et à vous demander si vous n'auriez pas dû cacher à BummbleTwit votre faute.
+Vous avez passé la journée en ville à culpabiliser et à vous demander si vous n'auriez pas dû cacher à BummbleTwit votre faute. Vous avez bien essayé de l'appeler au téléphone dans l'apres-midi mais il vous a rembarré.
 
-Vous n'êtes revenu sur place que pour la séance de spiritisme. Vous êtes arrivé au moment où le repas se terminait. En vous voyant, Lord BumbleTwit vous a lancé un regard assassin mais n'a fait aucun commentaire, la session de spiritisme allait démarrer. Vous saviez que Lord BumbleTwit était proche de Lord Bertham et apprendre que c'est par votre faute que leur relation s'est dégradée a dû lui briser le coeur.
+Vous n'êtes revenu sur place que pour la séance de spiritisme. Vous êtes arrivé au moment où le repas se terminait. En vous voyant, Lord BumbleTwit vous a lancé un regard assassin mais n'a fait aucun commentaire, la session de spiritisme allait démarrer.
 
 Vous avez pris votre place dans le passage secret pour jouer votre rôle dans le faux acte de spiritisme.
 
-Après la représentation, vous avez utilisé le passage secret qui mène à la chambre de BumbleTwit afin de pouvoir le voir et tenter de vous expliquer avec lui. Il avait l'air extrêmement fatigué. Assis dans son fautueil, un verre de son gin favori posé sur la table basse, il regardait dans le vague et n'a guère preté attention à ce que vous lui disiez, alors vous avez fini par vous taire.
+Après la représentation Lord BumbleTwit va toujours se réfugier dans son bureau soit-disant pour "se reposer". Vous avez utilisé le passage secret qui mène au bureau de Lord BumbleTwit afin de pouvoir le voir et tenter de vous expliquer avec lui. Il avait l'air extrêmement fatigué. Assis dans son fautueil, un verre de son gin favori posé sur la table basse, il regardait dans le vague et n'a guère preté attention à ce que vous lui disiez, alors vous avez fini par vous taire.
 
 C'est à ce moment que Lord BumbleTwit vous a regardé dans les yeux et a dit "mon ami, vous ne savez pas ce que vous avez fait." Vous auriez aimé en savoir plus, mais on a alors frappé à la porte. Vous avez juste eu le temps de vous sauver par le passage secret par lequel vous étiez entré et à regagner le grand salon avec les autres invités.
 
@@ -59,7 +59,7 @@ Il y a plusieurs informations que vous préféreriez dissimuler. Vous ne pouvez 
 
 - Trouvez qui a tué Lord BumbleTwit.
 - Découvrez le lien de tous les invités avec Lord Bertham.
-- Essayez de convaincre le Docteur Derelict de monter un nouveau spectacle avec vous.
+- Essayez de convaincre le Docteur Derelict de monter un nouveau spectacle avec vous mais pas de spiritisme cette fois-ci.
 
 ## Votre opinion sur les autres personnages
 

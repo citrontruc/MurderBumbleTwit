@@ -40,8 +40,9 @@ Il y a plusieurs informations que vous préféreriez dissimuler. Vous ne pouvez 
 
 ## Objectifs
 
-- Découvrir qui a tué Lord BumbleTwit et comment il est mort.
 - Découvrir un secret embarrassant sur votre soeur (Sonia Butler - cheffe majordome) mais aussi Bobby Watson (valet de pied de Lord BumbleTwit), TybaltLeFol (le meilleur ami de BumbleTwit) et le docteur Derelict.
+- Chantez les louanges de Lord BumbleTwit en toute occasion (rappel : vous pouvez mentir et inventer des anecdotes).
+- Découvrir qui a tué Lord BumbleTwit et comment il est mort.
 
 ## Votre opinion sur les autres personnages
 

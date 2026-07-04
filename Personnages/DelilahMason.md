@@ -1,11 +1,11 @@
-# Delilah Mazon
+# Delilah Mason
 
-- [Delilah Mazon](#delilah-mazon)
+- [Delilah Mason](#delilah-mason)
   - [Avez-vous tué quelqu'un ?](#avez-vous-tué-quelquun-)
   - [Qui êtes-vous ?](#qui-êtes-vous-)
   - [Votre emploi du temps](#votre-emploi-du-temps)
     - [Lord Bertham](#lord-bertham)
-    - [Lord BumbleTwit](#lord-bumbletwit)
+    - [5 ans plus tard : Lord BumbleTwit](#5-ans-plus-tard--lord-bumbletwit)
   - [Informations que vous voulez garder secrètes](#informations-que-vous-voulez-garder-secrètes)
   - [Objectifs](#objectifs)
   - [Votre opinion sur les autres personnages](#votre-opinion-sur-les-autres-personnages)
@@ -18,17 +18,23 @@ Non.
 
 ## Qui êtes-vous ?
 
-Votre vrai nom est Carla BlueFinch. Vous étiez la domestique de Lord Bertham. Après la mort de celui-ci, vous n'avez pas pu retrouver un nouvel employeur : les gens se méfient d'une domestique dont le maitre est empoisonné dans des circonstances mystérieuses. Vous avez réussi à retrouver un métier comme livreuse amazon sous-payée. Il faut bien vivre.
+Votre vrai nom est Carla BlueFinch. Vous étiez la domestique de Lord Bertham. Après la mort de celui-ci, vous n'avez pas pu retrouver un nouvel employeur : les gens se méfient d'une domestique dont le maitre est poignardé dans des circonstances mystérieuses. Vous avez réussi à retrouver un métier comme livreuse Amazon sous-payée. Il faut bien vivre.
+
+Vous êtes amoureuse d'un des fils Bertham : Gabriel Bertham.
 
 ## Votre emploi du temps
 
 ### Lord Bertham
 
-Une catastrophe ne pouvait qu'arriver. Vous l'aviez toujours senti sans savoir qui serait la personne qui la déclencherait. Depuis la mort de Lady Bertham, Lord Bertham est progressivement devenu de plus en plus irascible, négligeant ses enfants quand il ne les reprimendait pas. Le monde s'était arrêté pour lui et il essayait de faire en sorte que cet immobilisme se propage à ses enfants. John était trop bruyant et Lord Bertham ne manquait jamais de lui faire remarquer, Gabriel n'avait rien pu faire en dépit de ses études en médecine et son père lui crachait constamment son échec au visage, dans le cas de Patience, c'était presque pire : elle se laissait faire en une colère silencieuse et cette indifférence agaçait Lord Bertham au plus haut point.
+Une catastrophe ne pouvait qu'arriver. Vous l'aviez toujours senti sans savoir qui serait la personne qui la déclencherait. Depuis la mort de Lady Bertham, Lord Bertham est progressivement devenu de plus en plus irascible, négligeant ses enfants quand il ne les reprimendait pas. Le monde s'était arrêté pour lui et il essayait de faire en sorte que cet immobilisme se propage à ses enfants. John était trop bruyant et Lord Bertham ne manquait jamais de lui faire remarquer. Gabriel n'avait rien pu faire pour sauver sa mère en dépit de ses études en médecine et son père lui crachait constamment son échec au visage. Dans le cas de Patience, c'était presque pire : elle se laissait faire en une colère silencieuse et cette indifférence agaçait Lord Bertham au plus haut point.
 
 La seule personne qui parvenait à calmer Lord Bertham était Lord BumbleTwit : le medium. Il ramenait l'esprit de Lady Bertham et retrouvant son aimée, Lord Bertham se calmait provisoirement.
 
-### Lord BumbleTwit
+La situation avait atteint un point d'équilibre précaire qui ne pouvait que se terminer en tragédie. Durant cette période de grâce, vous avez vécu une romance naissante avec Gabriel Bertham. Le jour de la tragédie, vous faisiez le tour de la maison quand vous avez remarqué la porte entrouverte du bureau de Lord Bertham. A l'intérieur du bureau se trouvait Gabriel, un couteau à la main et couvert de sang, Lord Bertham était par terre, mort. Vous reconnaissiez le couteau, il appartenait à John Bertham, le frère de Gabriel. D'un geste tremblant, Gabriel vous a tendu le couteau "Cachez cela, voulez-vous ?"
+
+Le reste de la journée est particulièrement flou dans votre tête. Vous vous rappelez avoir jeté le couteau quelque part. Les interrogatoires n'ont rien donné et la mort de Lord Bertham n'a jamais été officiellement élucidée. La maison a été vendue, la famille Bertham s'est éparpillée et n'avaient donc plus besoin d'une domestique. A vrai dire, vous ne saviez pas très bien quoi penser à l'époque de la situation et vous éloigner de cette tragédie semblait une bonne chose.
+
+### 5 ans plus tard : Lord BumbleTwit
 
 Votre patron vous a fait demander tôt le matin. il parait qu'un riche hurluberlu avait expressement demandé à ce que vous lui livriez son colis. Quand vous avez entendu le nom de Lord BumbleTwit, vous avez pali mais vous n'avez rien dit (chez Amazon, contester un ordre peut vous faire renvoyer). Vous vous êtes présentée au manoir de Lord BumbleTwit à l'heure (chez Amazon, être en retard peut vous faire renvoyer) et comme il vous fallait une signature contre remise du colis, vous êtes montée jusqu'à son bureau d'où venaient des éclats de voix.
 
@@ -36,6 +42,12 @@ Votre patron vous a fait demander tôt le matin. il parait qu'un riche hurluberl
 - Car vous allez vous y mettre vous aussi ? Décidément, tout le monde me veut du mal aujourd'hui !
 
 Vous avez essayé de ne pas écouter le reste de la conversation (chez Amazon, en savoir trop peut vous faire renvoyer) et vous vous êtes contentée de frapper à la porte. Lord BumbleTwit est apparu tout sourire, vous a enlevé le paquet que vous apportiez et dans un murmure, il vous a lancé : "je sais qui vous êtes. Je pense que vous avez grand intérêt à rester lors de cette soirée. J'ai prévenu votre employeur de vous laisser la journée. Mon chéquier a su le convaincre." Puis plus fort : "Vous me sauvez la vie ma chère, vous ne savez pas à quel point !". Vous avez acquiescé (chez Amazon, le client a toujours raison).
+
+Un cocktail à la main, vous avez passé l'après-midi à observer les domestiques s'activer dans la maison. ça a autrement plus de classe qu'être livreuse Amazon. Et si vous essayiez de lui donner un CV ?
+
+Après le diner, vous avez assisté à la séance de spiritisme.
+
+Plus tard, 
 
 ## Informations que vous voulez garder secrètes
 
@@ -45,8 +57,9 @@ Il y a plusieurs informations que vous préféreriez dissimuler. Vous ne pouvez 
 
 ## Objectifs
 
-- Trouvez qui a tué Lord Bertham.
 - Gagnez le respect de Sonia Butler. Qui sait, elle pourrait sans doute avoir du travail à vous donner !
+- Confessez votre amour à Gabriel Bertham.
+- Trouvez qui a tué Lord Bertham.
 
 ## Votre opinion sur les autres personnages
 

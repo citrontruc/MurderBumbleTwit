@@ -4,7 +4,8 @@
   - [Avez-vous tué quelqu'un ?](#avez-vous-tué-quelquun-)
   - [Qui êtes-vous ?](#qui-êtes-vous-)
   - [Votre emploi du temps](#votre-emploi-du-temps)
-    - [Lord BumbleTwit](#lord-bumbletwit)
+    - [Lord Bertham](#lord-bertham)
+    - [5 ans plus tard : Lord BumbleTwit](#5-ans-plus-tard--lord-bumbletwit)
   - [Informations que vous voulez garder secrètes](#informations-que-vous-voulez-garder-secrètes)
   - [Objectifs](#objectifs)
   - [Votre opinion sur les autres personnages](#votre-opinion-sur-les-autres-personnages)
@@ -23,9 +24,13 @@ Cheffe majordome de Lord BumbleTwit, vous vous occupez de tout !
 
 **IMPORTANT** : Vous fumez.
 
-### Lord BumbleTwit
+### Lord Bertham
 
-Lord BumbleTwit a dit avoir une réunion de la plus haute importance dans l'après-midi et a refusé de vous en dire plus.
+Truc.
+
+### 5 ans plus tard : Lord BumbleTwit
+
+En voila une journée de merde.
 
 ## Informations que vous voulez garder secrètes
 

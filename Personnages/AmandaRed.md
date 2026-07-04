@@ -5,7 +5,7 @@
   - [Qui êtes-vous ?](#qui-êtes-vous-)
   - [Votre emploi du temps](#votre-emploi-du-temps)
     - [Lord Bertham](#lord-bertham)
-    - [Lord BumbleTwit](#lord-bumbletwit)
+    - [5 ans plus tard : Lord BumbleTwit](#5-ans-plus-tard--lord-bumbletwit)
   - [Informations que vous voulez garder secrètes](#informations-que-vous-voulez-garder-secrètes)
   - [Objectifs](#objectifs)
   - [Votre opinion sur les autres personnages](#votre-opinion-sur-les-autres-personnages)
@@ -28,7 +28,7 @@ Financière sagace et pragmatique, vous croyez dur comme fer en la supériorité
 
 Quelques jours avant sa mort, Lord Bertham voulait léguer sa fortune à Lord BumbleTwit. Cependant, il est mort avant d'avoir pu changer le contenu de son testament et sa fortune a finalement été partagé entre ses trois enfants équitablement. C'est sans doute mieux comme cela.
 
-### Lord BumbleTwit
+### 5 ans plus tard : Lord BumbleTwit
 
 Vous êtes arrivée en avance à votre rendez-vous avec Lord BumbleTwit. Vous savez que ce grigou aime bien contrôler les gens alors par pur esprit de provocation, vous êtes arrivés en avance pour essayer de surprendre ses préparatifs. Sans attendre qu'un domestique vous conduise jusqu'à lui, vous avez filé vers son bureau où vous espériez le trouver affairé à je ne sais quel tour de prestidigigateur. Quel n'a pas été votre surprise en découvrant Sonia Butler - la cheffe majordome - en train de fouiller dans ses papiers. Prise sur le fait, elle a rougi, bafouillé une excuse et est partie chercher BumbleTwit. Vous auriez bien aimé savoir ce qu'elle cherchait quand BumbleTwit est apparu dans l'embrasure de la porte. Sourire au lèvre, élégance anglais impeccable. Le succès d'un bon arnaqueur tient aux apparences dit-on. Sur ce volet, BumbleTwit excelle.
 
@@ -49,7 +49,7 @@ Il y a plusieurs informations que vous préféreriez dissimuler. Vous ne pouvez 
 ## Objectifs
 
 - Trouvez une explication rationnelle à la séance de spiritisme de Lord BumbleTwit.
-- Parvenez à conserver une répartie à toute épreuve pendant toute la soirée.
+- Si vous pouviez faire des crasses à BumbleTwit, ce serait parfait. Rappel : vous pouvez mentir ou inventer des anecdotes.
 - Ah oui, résoudre cette histoire de mort de Lord BumbleTwit.
 
 ## Votre opinion sur les autres personnages

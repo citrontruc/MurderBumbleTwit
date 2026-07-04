@@ -28,7 +28,7 @@ Juste avant la mort de votre père, vous avez appris que celui-ci souhaitait mod
 
 Quelle farce ! Vous êtes arrivé à la soirée de Lord BumbleTwit tôt. Vous étiez curieux d'en savoir plus sur toute cette affaire.
 
-Le moment fort de la soirée a été 
+Le moment fort de la soirée a été
 
 Vous êtes rentré en trombe dans la chambre de Lord BumbleTwit. Le cuistre reposait sur son fauteuil, le regard hautain et son demi-sourire au lèvre. Damnation ! Ce foutriquet se croit donc tellement supérieur ! Vous avez passé la prochaine demie-heure à l'insulter copieusement et à lui faire comprendre son idiotie crassse, qu'il était un ignoble affabulateur qui mériterait d'être dissequé afin que les scientifiques puissent étudier le cadavre et découvrir d'où provient sa mythomanie patentée. Le bougre vous regardait comme un insecte pendant tout votre discours, vous aviez envie de le frapper.
 
