@@ -2,7 +2,7 @@
 
 ## Analyse
 
-Cabinet de notaire Gregor & fils
+Cabinet de notaire Balthazar & fils
 
 Cher ami,
 
