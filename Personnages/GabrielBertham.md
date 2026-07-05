@@ -4,6 +4,8 @@
   - [Avez-vous tué quelqu'un ?](#avez-vous-tué-quelquun-)
   - [Qui êtes-vous ?](#qui-êtes-vous-)
   - [Votre emploi du temps](#votre-emploi-du-temps)
+    - [5 ans plus tôt : Lord Bertham](#5-ans-plus-tôt--lord-bertham)
+    - [Lord BumbleTwit](#lord-bumbletwit)
   - [Informations que vous voulez garder secrètes](#informations-que-vous-voulez-garder-secrètes)
   - [Objectifs](#objectifs)
   - [Votre opinion sur les autres personnages](#votre-opinion-sur-les-autres-personnages)
@@ -16,11 +18,21 @@ Non. Mais vous avez planté un couteau dans le corps de BumbleTwit.
 
 ## Qui êtes-vous ?
 
+Fils cadet de Lord Bertham, vous avez fait des études de médecine.
+
 Lors des dernières années de votre père, Lord BumbleTwit était présent quotidiennement à la maison pour invoquer l'esprit de votre défunte mère et alléger son chagrin. L'accusation faite par l'esprit de votre père lors de la séance de divination vous a beaucoup perturbé. Vous avez l'intention de trouver le fin mot de cette histoire... En protégrant votre famille.
 
 ## Votre emploi du temps
 
+### 5 ans plus tôt : Lord Bertham
+
+Vous penchant sur le corps de Lord Bertham.
+
 Votre frère a un caractère sanguin. Vous saviez qu'il avait une relation houleuse avec votre père. A vrai dire, quelques heures avant la mort de celui-ci, vous avez entendu les deux se disputer. Quand vous en avez parlé à Lord BumbleTwit plus tard, il vous a encouragé à vous taire.
+
+Vous en avez jamais vraiment voulu à votre frère d'avoir tué votre père. Cependant, votre relation s'est fortement détérioré depuis l'événement. Vous avez arrêté de vous voir. Après la vente de la demeure Bertham, vous vous êtes perdu de vue pendant des années.
+
+### Lord BumbleTwit
 
 En parcourant le couloir pour aller dans le bureau de BumbleTwit, vous avez croisé votre frère à l'allure très remonté. Il ne vous a rien dit, c'est à peine s'il a fait attention à vous. Cependant, en rentrant dans le bureau, la pièce était étrangement silencieuse. Le fauteuil de BumbleTwit faisait dos à la porte et il vous a fallu vous rapprocher pour vous rendre compte que BumbleTwit était mort. Encore une fois, le caractère de votre frère lui avait joué des tours !
 

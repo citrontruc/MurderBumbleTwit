@@ -24,13 +24,15 @@ Médecin alcoolique et coureur, vous parvenez difficilement à survivre en tant 
 
 ### Lord Bertham
 
+C'est vous qui avez introduit Lord BumbleTwit à Lord Bertham.
+
 La matinée de la mort de Lord Bertham, vous étiez en train d'étudier la dynamique des fluides dans le cellier du manoir quand vous avez entendu des bruits de pas loin de là où vous vous trouviez. Avisant la porte de service, vous avez vu Jamie Butler (frère de Sonia Butler. Un taré) qui rentrait. Comme vous étiez camouflé dans votre environnement naturel, il ne vous a pas remarqué. Le fait ne vous semblait guère intéressant jusqu'à ce que vous entendiez des cris venant de l'étage.
 
 ### 5 ans plus tard - Lord BumbleTwit
 
 Juste avant la séance de spiritisme, vous avez vu Tybalt rentrer. C'est un de vos amis et vous auriez adoré lui parlé mais il a rapidement disparu.
 
-Après la séance de spiritisme, vous étiez en train de vous promener sur le balcon quand vous avez vu Tybalt sortir soudainement d'un passage que vous n'aviez pas remarqué pour ensuite s'esquiver.
+Après la séance de spiritisme, vous étiez en train de vous promener sur le balcon quand vous avez vu Tybalt sortir soudainement d'un passage caché pour ensuite s'esquiver. La vision vous a perturbé et vous l'avez suivi jusqu'au salon.
 
 ## Informations que vous voulez garder secrètes
 

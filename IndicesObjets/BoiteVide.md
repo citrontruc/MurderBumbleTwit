@@ -6,4 +6,4 @@ vide
 
 ## Analyse
 
-On retrouve des traces de poison dans la boite.
+On retrouve des traces de poison dans la boite et sur l'extérieur.

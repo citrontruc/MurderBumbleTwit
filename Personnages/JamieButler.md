@@ -28,11 +28,13 @@ Lors des grandes réceptions et des séances de spiritisme, vous servez d'extra 
 
 Par le plus grand des hasards, vous étiez au manoir Bertham le jour de la mort de Lord Bertham. Par le plus grand des hasard, vous saviez que Lord BumbleTwit était sur place. Par le plus grand des hasards, vous aviez votre carnet d'autographe à la main et des jumelles pour vérifier qu'il n'y avait personne qui gardait l'entrée du personnel. Par le plus grand des hasard, cette porte débouchait sur le petit salon où vous vous disiez que Lord BumbleTwit devait bien passer et qu'il pourrait alors vous signer un autographe.
 
-Vous avez alors vu passer Clara BlueFinch, la domestique des Bertham. Son tablier était taché de sang et son regard hagard.
+Vous avez alors vu passer Clara BlueFinch, la domestique des Bertham. Son tablier était taché de sang et son regard hagard. Vous l'avez suivi dans le jardin où elle a jeté quelque chose.
 
 ### Lord BumbleTwit
 
 Vous êtes arrivé en avance pour prendre votre service d'extra. Avec un peu de chance, Lord BumbleTwit aura noté votre ponctualité.
+
+Avide de découvrir les secrets de Lord BumbleTwit afin de pouvoir copier son spectacle, vous vouliez depuis le debut.
 
 ## Informations que vous voulez garder secrètes
 
@@ -40,7 +42,7 @@ Il y a plusieurs informations que vous préféreriez dissimuler. Vous ne pouvez 
 
 ## Objectifs
 
-- Découvrir un secret embarrassant sur votre soeur (Sonia Butler - cheffe majordome) mais aussi Bobby Watson (valet de pied de Lord BumbleTwit), TybaltLeFol (le meilleur ami de BumbleTwit) et le docteur Derelict.
+- Découvrir un secret embarrassant sur toutes les personnes présentes à la soirée.
 - Chantez les louanges de Lord BumbleTwit en toute occasion (rappel : vous pouvez mentir et inventer des anecdotes).
 - Découvrir qui a tué Lord BumbleTwit et comment il est mort.
 

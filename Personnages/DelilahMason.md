@@ -26,7 +26,7 @@ Vous êtes amoureuse d'un des fils Bertham : Gabriel Bertham.
 
 ### Lord Bertham
 
-Une catastrophe ne pouvait qu'arriver. Vous l'aviez toujours senti sans savoir qui serait la personne qui la déclencherait. Depuis la mort de Lady Bertham, Lord Bertham est progressivement devenu de plus en plus irascible, négligeant ses enfants quand il ne les reprimendait pas. Le monde s'était arrêté pour lui et il essayait de faire en sorte que cet immobilisme se propage à ses enfants. John était trop bruyant et Lord Bertham ne manquait jamais de lui faire remarquer. Gabriel n'avait rien pu faire pour sauver sa mère en dépit de ses études en médecine et son père lui crachait constamment son échec au visage. Dans le cas de Patience, c'était presque pire : elle se laissait faire en une colère silencieuse et cette indifférence agaçait Lord Bertham au plus haut point.
+Une catastrophe ne pouvait qu'arriver. Vous l'aviez toujours senti sans savoir qui serait la personne qui la déclencherait. Depuis la mort de Lady Bertham, Lord Bertham est progressivement devenu de plus en plus irascible, négligeant ses enfants quand il ne les reprimendait pas. Le monde s'était arrêté pour lui et il essayait de faire en sorte que cet immobilisme se propage à ses enfants. John était trop bruyant et Lord Bertham ne manquait jamais de lui faire remarquer. Gabriel n'avait rien pu faire pour sauver sa mère en dépit de ses études en médecine et son père lui crachait constamment son échec au visage. Patience parvenait à échapper aux colères terribles de Lord Bertham en disparaissant sans prévenir.
 
 La seule personne qui parvenait à calmer Lord Bertham était Lord BumbleTwit : le medium. Il ramenait l'esprit de Lady Bertham et retrouvant son aimée, Lord Bertham se calmait provisoirement.
 
@@ -43,11 +43,13 @@ Votre patron vous a fait demander tôt le matin. il parait qu'un riche hurluberl
 
 Vous avez essayé de ne pas écouter le reste de la conversation (chez Amazon, en savoir trop peut vous faire renvoyer) et vous vous êtes contentée de frapper à la porte. Lord BumbleTwit est apparu tout sourire, vous a enlevé le paquet que vous apportiez et dans un murmure, il vous a lancé : "je sais qui vous êtes. Je pense que vous avez grand intérêt à rester lors de cette soirée. J'ai prévenu votre employeur de vous laisser la journée. Mon chéquier a su le convaincre." Puis plus fort : "Vous me sauvez la vie ma chère, vous ne savez pas à quel point !". Vous avez acquiescé (chez Amazon, le client a toujours raison).
 
-Un cocktail à la main, vous avez passé l'après-midi à observer les domestiques s'activer dans la maison. ça a autrement plus de classe qu'être livreuse Amazon. Et si vous essayiez de lui donner un CV ?
+Après le diner devait avoir lieu la séance de spiritisme. Vous avez préféré ne pas y assister. Vous craigniez ce que Lord Bertham pourrait dire et puis si on peut vraiment parler avec les morts, pourquoi ne pas parler avec des morts intéressants ? Vous êtes resté dans le salon pendant la séance. Assise dans le salon, vous avez d'ailleurs vu Jamie Butler passer pour se diriger vers le bureau de Lord BumbleTwit. Il a fait le chemin inverse peu après.
 
-Après le diner, vous avez assisté à la séance de spiritisme.
+C'est alors que vous avez entendu d'une voix gutturale des mots terribles "C'est mon fils qui m'a tué". Peu après est sorti de la salle de spiritisme John Bertham, tremblant de colère et agonisant d'injures quiconque essayait de lui adresser la parole. Les autres convives sont sortis. Gabriel est sorti en dernier de la pièce, livide.
 
-Plus tard, 
+Vous ne saviez plus trop où vous mettre.
+
+Une heure plus tard, on découvrait le corps de Lord BumbleTwit, un couteau dans le coeur.
 
 ## Informations que vous voulez garder secrètes
 
@@ -58,8 +60,8 @@ Il y a plusieurs informations que vous préféreriez dissimuler. Vous ne pouvez 
 ## Objectifs
 
 - Gagnez le respect de Sonia Butler. Qui sait, elle pourrait sans doute avoir du travail à vous donner !
-- Confessez votre amour à Gabriel Bertham.
-- Trouvez qui a tué Lord Bertham.
+- Trouvez si Gabriel Bertham a tué Lord Bertham ou Lord BumbleTwit et l'innocenter si possible.
+- Ne contredites personne (chez Amazon, contredire quelqu'un peut vous faire renvoyer).
 
 ## Votre opinion sur les autres personnages
 

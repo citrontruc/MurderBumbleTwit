@@ -30,7 +30,7 @@ Truc.
 
 ### 5 ans plus tard : Lord BumbleTwit
 
-Voila qui est fort étrange. Vous avez reçu dans l'après-midi une missive de la part de Lord BumbleTwit vous indiquant que les comptes - que vous vous evertuez pourtant à équilibrer jour et nuit - seraient inexacts ! Si jamais la nouvelle venait à s'ébruiter, cela serait sans nul doute une source de deshonneur immense !
+Voila qui est fort chelou. Vous avez reçu dans l'après-midi une missive de la part de Lord BumbleTwit vous indiquant que les comptes - que vous vous evertuez pourtant à équilibrer jour et nuit - seraient inexacts ! Si jamais la nouvelle venait à s'ébruiter, cela serait sans nul doute une source de deshonneur immense !
 
 Vous étiez dans le jardin en train de vous griller une clope peinard quand vous avez remarqué le doc qui se barrait vers la piaule. L'avait déjà l'air bien beurré le toubib. Un peu plus tard, une autre personne est passé mais vous zavez pas fait gaffe (et y faudrait pas qu'on vous voit glander non plus).
 

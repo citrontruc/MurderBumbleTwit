@@ -26,7 +26,15 @@ Financière sagace et pragmatique, vous croyez dur comme fer en la supériorité
 
 ### Lord Bertham
 
+Sacré diable de BumbleTwit. Vous détestez le fait que le bougre pourrait vous être utile. Si vous ne doutez pas un seul instant que son numéro de médium n'est qu'un grossier stratégème pour extorquer de l'argent aux âmes crédules, cependant vous ne pouvez pass nier que depuis que Lord Bertham fréquente ce charlatan, son humeur s'est beaucoup améliorée. Lord Bertham ne réprimande plus ses enfants et il a commencé à se réintéresser à ses affaires !
+
+Le jour de la mort de Lord Bertham avait commencé de manière similaire à toutes les autres journées.
+
 Quelques jours avant sa mort, Lord Bertham voulait léguer sa fortune à Lord BumbleTwit. Cependant, il est mort avant d'avoir pu changer le contenu de son testament et sa fortune a finalement été partagé entre ses trois enfants équitablement. C'est sans doute mieux comme cela.
+
+Sur le souhait des enfants Bertham, vous avez mis la maison à vendre et Lord BumbleTwit s'est empressé de se porter acheteur. Comme quoi le charlatanisme paie bien.
+
+Plus tard, la police vous a contacté. on avait retrouvé l'arme du crime : un couteau qui appartenait à John Bertham. On voulait vérifier vos empreintes digitales pour vérifier si elles correspondaient (bien entendu, ce n'était pas le cas). Les autorités avaient testé les empreintes de plusieurs personnes dans la maisonnée sans succès. Ils n'avaient pas réussi à retrouver Carla BlueFinch, la domestique de Lord Bertham pour faire des tests.
 
 ### 5 ans plus tard : Lord BumbleTwit
 
