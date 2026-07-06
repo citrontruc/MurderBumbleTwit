@@ -2,7 +2,7 @@
 
 - 13h Déjeuner avec T et le docteur. Revoir les détails de la soirée.
 - 15h Voir avec Sonia & Bobby pour les vins et le repas de la soirée.
-- 17h Rdv en ville.
+- 17h Absent
 - 18h - Rdv avec Amanda Red dans mon bureau.
 - 18h30 - Rdv avec John Bertham.
 - 19h - Rdv avec K.L. dans mon bureau.

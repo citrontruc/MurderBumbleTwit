@@ -4,7 +4,7 @@
 
 Lord BumbleTwit,
 
-J'ai reçu votre lettre et je me suis empressé de la séparer des autres pour son odeur putride de corruption morale ne vienne pas déteindre sur mes autres correspondance. Ayant lu son contenu, je pense qu'un bucher aurait été un endroit plus adapté pour la missive que ma boite au lettre.
+J'ai reçu votre lettre et je me suis empressé de la séparer des autres pour son odeur putride de corruption morale ne vienne pas déteindre sur mes autres correspondances. Ayant lu son contenu, je pense qu'un bucher aurait été un endroit plus adapté pour la missive que ma boite au lettre.
 
 Je desapprouve hautement la manière vicieuse avec laquelle vous vous servez des morts pour votre enrichissement personnel. A vrai dire, puisque vous semblez autant apprecier parler avec les défunts, je ne peux que vous enjoindre à aller au diable les rejoindre.
 

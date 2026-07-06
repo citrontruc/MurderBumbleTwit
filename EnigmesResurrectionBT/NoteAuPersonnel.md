@@ -2,4 +2,4 @@
 
 ## Analyse
 
-"Note au personnel : Amanda Red raffole de cacahuètes, veuillez bien lui mettre un supplément de sauce au beurre de cacahuète. On ne doit pas dire que je ne gâte pas mes invités."
+"Note au personnel : Amanda Red raffole de poivre, veuillez bien lui mettre un supplément de poivre sur son assiette. On ne doit pas dire que je ne gâte pas mes invités."

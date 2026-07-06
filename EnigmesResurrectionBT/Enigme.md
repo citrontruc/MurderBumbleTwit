@@ -3,9 +3,7 @@
 - [L'enigme](#lenigme)
   - [But de l'enigme](#but-de-lenigme)
   - [Texte à remplir](#texte-à-remplir)
-  - [Une épice](#une-épice)
   - [Un lieu](#un-lieu)
-  - [Une émotion](#une-émotion)
   - [Un mot](#un-mot)
 
 ## But de l'enigme
@@ -17,19 +15,28 @@ Premier temps fort du jeu. Les joueurs doivent, à partir d'un ensemble de docum
 Chers amis,
 La formule que vous allez mettre au point est un de mes secrets les mieux gardés. Je suis parvenu à mettre au point un breuvage exceptionnel. Une potion si potente qu'elle pourrait même réveiller un mort. Il s'agit d'un secret si merveilleux que je ne voulais pas qu'il disparaisse avec moi et si dangeureux que je ne voulais pas le confier au premier venu. J'ai jugé bon de le dissimuler dans certaines enigmes tortueuses. Quand vous aurez résolu toutes les enigmes, vous pourrez recomposer la formule :
 
-"Bobby auriez-vous la bonté de chercher la fiole qui se trouve dans la boite de couleur sanglante ? Cela serait très gentil de votre part."
+- (Une tasse de thé)(7) noir(2).
+- Du poivre(1) du Seylan.
+- 30000(4) mg (11)mal(t) de Berlin(5)
+- Une pincée de Curcuma(8)
+- Un grain de sel(10)
+- 4(3) pétales d'un bouquet de ___(6).
 
-## Une épice
-
-Elle est indispensable.
+(1) On prétend que j'ai un grain. Amanda ne l'aime pas.
+(2) On prétend que je perd la boule. Laquelle ? De quelle couleur ?
+(3) Je suis un homme connu et occupé ! J'avais X rdv dans l'après-midi !
+(4) Je me suis fait bien de l'argent en vendant du vent ! Combien exactement ? 30 000 €
+(5) Une ville : Une très belle ville, mais ce n'est pas en Angleterre que je pourrais dépenser cette pièce.
+(6) C'est mon bouquet préféré, cueillez-en un pétale.
+(7) Ainsi donc, mon argent va servir à cela ? Heureusement que je ne serai plus là pour voir cela.
+(8) Alors comme ça il est malade ?
+(9) Un sourire peut cacher bien des choses.
+(10) Puisque l'inspecteur semble décidé à me le donner.
+(11) Ce soir, il semblerait que tout le monde m'en veuille.
 
 ## Un lieu
 
 Rappelle-toi la ville où nous avons rencontrer une coureuse de longue distance... Quoique, j'ai un doute sur la traduction.
-
-## Une émotion
-
-J'en ai cueilli un bouquet ce matin.
 
 ## Un mot
 
