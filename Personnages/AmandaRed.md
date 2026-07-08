@@ -70,4 +70,5 @@ Il y a plusieurs informations que vous préféreriez dissimuler. Vous ne pouvez 
 
 - Pour des raisons pratiques, vous n'avez pas pu assister à la séance de spiritisme. La première étape sera de comprendre ce qui s'est passé lors de la séance.
 - Préparez à l'avance un mensonge pour justifier votre absence à la séance de spiritisme.
+- Votre personnage suinte l'assurance avec peut-être une petite touche d'arrogance. Faites-vous plaisir.
 - Amusez-vous bien.

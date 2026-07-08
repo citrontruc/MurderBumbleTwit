@@ -4,4 +4,4 @@ La pochette contenant tous les documents de l'enigme fait parti de l'enigme. Pou
 
 ## Analyse
 
-Mot secret : Curcuma.
+Mot secret : Cannelle.

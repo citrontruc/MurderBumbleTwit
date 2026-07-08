@@ -4,7 +4,7 @@
   - [Avez-vous tué quelqu'un ?](#avez-vous-tué-quelquun-)
   - [Qui êtes-vous ?](#qui-êtes-vous-)
   - [Votre emploi du temps](#votre-emploi-du-temps)
-    - [Lord Bertham](#lord-bertham)
+    - [5 ans plus tôt : Lord Bertham](#5-ans-plus-tôt--lord-bertham)
     - [5 ans plus tard : Lord BumbleTwit](#5-ans-plus-tard--lord-bumbletwit)
   - [Informations que vous voulez garder secrètes](#informations-que-vous-voulez-garder-secrètes)
   - [Objectifs](#objectifs)
@@ -18,21 +18,23 @@ Non.
 
 ## Qui êtes-vous ?
 
-Membre du personnel de Lord BumbleTwit. Vous êtes un homme à tout faire.
+Vous êtes le jardinier de la demeure Bertham et un homme à tout faire. Quand Lord BumbleTwit a racheté la maison, il vous a naturellement racheté avec. Personne d'autre ne touche à vos petunias.
 
 ## Votre emploi du temps
 
 **IMPORTANT** : Vous fumez.
 
-### Lord Bertham
+### 5 ans plus tôt : Lord Bertham
 
-Truc.
+Le malheur pouvait que se produire dans cette maison du diable.
+
+Quand Lord BumbleTwit a racheté la maison, il vous a naturellement racheté avec. Personne d'autre ne touche à vos petunias.
 
 ### 5 ans plus tard : Lord BumbleTwit
 
 Voila qui est fort chelou. Vous avez reçu dans l'après-midi une missive de la part de Lord BumbleTwit vous indiquant que les comptes - que vous vous evertuez pourtant à équilibrer jour et nuit - seraient inexacts ! Si jamais la nouvelle venait à s'ébruiter, cela serait sans nul doute une source de deshonneur immense !
 
-Vous étiez dans le jardin en train de vous griller une clope peinard quand vous avez remarqué le doc qui se barrait vers la piaule. L'avait déjà l'air bien beurré le toubib. Un peu plus tard, une autre personne est passé mais vous zavez pas fait gaffe (et y faudrait pas qu'on vous voit glander non plus).
+Vous étiez dans le jardin en train de vous griller une clope peinard quand vous avez remarqué le doc qui se barrait vers la piaule en suivant Tybalt. L'avait déjà l'air bien beurré le toubib. Un peu plus tard, une autre personne est passée mais vous zavez pas fait gaffe à qui c'était (et y faudrait pas qu'on vous voit glander non plus).
 
 ## Informations que vous voulez garder secrètes
 
@@ -42,7 +44,7 @@ Il y a plusieurs informations que vous préféreriez dissimuler. Vous ne pouvez 
 
 ## Objectifs
 
-- Parvenez à expliquer à quelqu'un votre grande théorie du taf.
+- Tunnelisez quelqu'un pendant au moins 5 minutes en ralant sur les jeunes qui n'ont pas suffisamment la main verte.
 - Gagner le respect et la considération des membres de la famille Bertham.
 - Trouvez qui a tué le chef.
 
@@ -56,7 +58,4 @@ Il y a plusieurs informations que vous préféreriez dissimuler. Vous ne pouvez 
 
 ## Conseils de jeux
 
-- Tant que personne ne soupçonne BumbleTwit d'être empoisonné, vous n'avez pas besoin de le mentionner.
-- Vous n'avez aucune raison flagrante d'en vouloir à Lord BumbleTwit. Mesurez vos propos.
-- Le fait que vous ayez l'air trop innocent vous rend suspect. Imaginez une histoire bidon ou un prétexte pour paraitre juste suspect comme il faut. Dites par exemple que Lord BumbleTwit desapprouvait votre mariage.
 - Amusez-vous bien.

@@ -50,4 +50,5 @@ Il y a plusieurs informations que vous préféreriez dissimuler. Vous ne pouvez 
 
 ## Conseils de jeux
 
+- Votre personnage se prend pour la cheffe de maison. N'hésitez pas à adopter une personnalité qui corresponde à cela.
 - Amusez-vous bien.

@@ -41,7 +41,9 @@ Et il a fouillé dans les papiers sur le bureau. C'est à ce moment que vous ave
 
 - Ce n'est pas un spectacle pour une adolescente.
 
-Depuis ce jour fatidique, votre famille a commencé à se disloquer : la maison Bertham a été vendue et John et Gabriel ne se parlent plus guère.
+Il vous a ordonné de partir.
+
+Vous n'avez rien dit à la police. En partie parce que vous vous sentez responsable des événements, en partie parce que vous n'aimiez pas votre père et en partie parce que vous ne savez toujours pas si la police a retrouvé vos empreintes sur l'arme. Depuis ce jour fatidique, votre famille a commencé à se disloquer : la maison Bertham a été vendue et John et Gabriel ne se parlent plus guère.
 
 ### Lord BumbleTwit
 
@@ -55,7 +57,7 @@ Lord BumbleTwit vous avait donné rendez-vous en ville avant la séance de spiri
 
 Son ton affable cachait à peine le tranchant de l'implication.
 
-- Une personne m'a vu sortir du passage secret le jour de la mort de Lord Bertham. Ce soir, j'ai bien l'intention de lui montrer qu'on ne se moque pas de moi.
+- Je crois qu'une personne m'a vu sortir du passage secret le jour de la mort de Lord Bertham. Ce soir, j'ai bien l'intention de lui montrer qu'on ne se moque pas de moi.
 
 Juste après la séance de spiritisme, vous avez voulu calmer Lord BumbleTwit. C'était absurde de soupçonner John Bertham ! Il a une grande gueule mais il ne ferait pas de mal à une mouche ! Peut-être pourriez-vous le ramener à la raison ? Peut-être serait-il possible de le faire changer d'avis ? Vous avez alors repensé à votre père et à la manière dont BumbleTwit l'a assassiné : sans un mot, de sang froid et tout ça pour une menace. Vous avez alors réalisé que cette affaire ne pourrait se finir que dans le sang et que BumbleTwit vous tuerait impitoyablement si cela lui permettait de se sauver.
 
@@ -68,6 +70,7 @@ Une heure plus tard, le corps de Lord BumbleTwit a été découvert... avec un c
 Il y a plusieurs informations que vous préféreriez dissimuler. Vous ne pouvez pas révéler ces informations de vous-mêmes. Si un autre joueur vous pose des questions sur ces sujets, évitez les questions, échappez vous ou indignez-vous qu'on vous soupçonne de tels faits. Si un autre joueur vous présente l'information (il a découvert le peau aux roses), vous pouvez reconnaitre les faits mais que à ce joueur.
 
 - Vous avez tué (?) Lord BumbleTwit.
+- Vous voulez aussi cacher votre implication dans la mort de votre père.
 
 ## Objectifs
 
@@ -83,5 +86,5 @@ Vous aimez beaucoup vos frères John et Gabriel Bertham.
 
 ## Conseils de jeux
 
-- Vous êtes sans doute la seule personne qui connait la vérité sur la mort de Lord Bertham. Si vous la révélez, vous risquer de devenir immédiatement suspecte.
+- Vous êtes sans doute la seule personne qui connait la vérité sur la mort de Lord Bertham. Si vous la révélez, vous risquer de devenir immédiatement suspecte. Il vaut mieux garder cela secret.
 - Amusez-vous bien.
