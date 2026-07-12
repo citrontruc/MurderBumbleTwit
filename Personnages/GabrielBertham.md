@@ -9,8 +9,6 @@
     - [Lord BumbleTwit](#lord-bumbletwit)
   - [Informations que vous voulez garder secrètes](#informations-que-vous-voulez-garder-secrètes)
   - [Objectifs](#objectifs)
-  - [Votre opinion sur les autres personnages](#votre-opinion-sur-les-autres-personnages)
-  - [Compétences](#compétences)
   - [Conseils de jeux](#conseils-de-jeux)
 
 ## Avez-vous tué quelqu'un ?
@@ -19,35 +17,37 @@ Non. Mais vous avez planté un couteau dans le corps de BumbleTwit.
 
 ## Qui êtes-vous ?
 
-Fils ainé de Lord Bertham, vous avez fait des études de médecine et êtes à présent docteur. Votre frère cadet est John Bertham, un homme fasciné de spectacle qui a dépensé sa part d'héritage pour acheter un cabaret, votre soeur est Patience Bertham, une femme timide qui poursuit des études pour devenir juge.
+Fils ainé de Lord Bertham, vous avez fait des études de médecine et êtes à présent docteur. Votre frère cadet est John Bertham, un homme fasciné de spectacle qui a dépensé sa part d'héritage pour acheter un cabaret, votre soeur est Patience Bertham, une femme timide qui poursuit des études pour devenir juge. Vous les aimez beaucoup et seriez prêt à tout pour les protéger.
 
 ## Votre emploi du temps
 
+**IMPORTANT** : Vous fumez.
+
 ### 5 ans plus tôt : Lord Bertham
 
-Vous penchant sur le corps de Lord Bertham.
+Si en tant que médecin vous avez toujours eu quelques doutes sur les talents supposés de Lord BumbleTwit, vous ne pouvez pas nier l'effet bénéfique que ses séances ont eu sur votre père. Il en sortait à chaque fois ému et de bonne humeur. Vous aviez alors presque envie de lui pardonner les dernières années de rudesse. Mais toutes les bonnes choses ont une fin et la paix ne pouvait décidément pas durer. Par Amanda Red, l'experte comptable de votre père, vous avez appris que Lord Bertham souhaitait changer son testament pour que le domaine revienne à Lord BumbleTwit. La nouvelle vous a déplu mais il n'y avait rien que vous pouviez faire pour vous y opposer alors vous avez fait le dos rond. Cependant votre frère - John Bertham - ne possède pas le même fatalisme que vous, c'est un homme sanguin et colérique. Vous saviez qu'il avait une relation houleuse avec votre père. Le jour de la mort de votre père, vous avez entendu John insulter copieusement votre père depuis votre chambre. Peu après, quand vous êtes allé voir votre père, vous avez remarqué que la porte était fermé à clé et vous avez craint le pire.
 
-Votre frère a un caractère sanguin. Vous saviez qu'il avait une relation houleuse avec votre père. A vrai dire, quelques heures avant la mort de celui-ci, vous avez entendu les deux se disputer dans le bureau depuis votre chambre.
+Votre père était allongé par terre, le crâne fracassé par une horloge de bureau. Vous agenouillant, vous avez constaté qu'on ne pouvait rien faire pour lui. Que faire ? Il fallait que vous trouviez une manière de protéger votre frère ! C'est alors que vous avez vu Carl BlueFinch, le domestique de la maison, dans l'embrasure de la porte. Vous saviez qu'il avait un faible pour vous alors vous lui avez tendu l'horloge en le supplicant de la faire disparaitre. Brave Carl. Un homme fidèle.
 
-Vous en avez jamais vraiment voulu à votre frère d'avoir tué votre père. Cependant, votre relation s'est fortement détérioré depuis l'événement. Vous avez arrêté de vous voir. Après la vente de la demeure Bertham, vous vous êtes perdu de vue pendant des années.
+On n'a jamais retrouvé l'arme du crime. L'événement a eu lieu juste avant que votre père ne change son testament, Lord BumbleTwit n'a rien fait pour contester la décision et il s'est montré au contraire parfaitement courtois affirmant que ce n'était que justice que l'argent revienne aux "dignes héritiers de Lord Bertham". Vous en avez jamais vraiment voulu à votre frère d'avoir tué votre père. Cela devait arriver. Vous avez proposé de mettre la maison en vente et John et Patience ont accepté.
 
 ### Quelques jours avant la réception
 
-Vous avez reçu un billet de chantage : "Je sais ce que vous avez fait il y a cinq ans. Si vous ne voulez pas que vos secrets s'ébruitent, il va falloir payer. Envoyez mille livres à l'adresse suivante : XXX." Cette lettre vous a fait trembler. Qui donc pouvait bien vous en vouloir ?
+Vous avez reçu un billet de chantage : "Je sais ce que vous avez fait il y a cinq ans. Si vous ne voulez pas que vos secrets s'ébruitent, il va falloir payer. Envoyez dix-mille livres à l'adresse suivante : XXX." Cette lettre vous a fait trembler. Qui donc pouvait bien vous en vouloir ?
 
-Par mesure de sécurité, vous avez envoyé les mille livres.
+Par mesure de sécurité, vous avez envoyé les dix-mille livres.
 
 ### Lord BumbleTwit
 
-Vous avez vu le matin Lord BumbleTwit afin de lui faire part de
+Vous aviez rendez-vous à 18h30 matin Lord BumbleTwit afin de lui faire part de vos inquiétudes vis à vis de la lettre de chantage que vous aviez reçu. Le medium s'était en effet montré de très bon conseil lors des quelques fois où vous lui aviez demandé conseil (notamment dans l'affaire des trois roses blanches). Vous êtes arrivé au domaine quelques minutes en avance et Archie Butler - le majordome de Lord BumbleTwit - vous a conduit directement à son bureau. Au moment où celui-ci allait partir, Lord BumbleTwit l'a rappelé rapidement "Amenez-moi Bobby Watson à 19h, c'est de la plus haute importance". Puis, le médium s'est assis dans son siège, vous a servi un verre de gin et vous a encouragé à lui raconter de quoi il était question. Lord BumbleTwit vous a écouté avec beaucoup d'intérêt. Il vous a alors demandé si vous aviez payé la rançon et vous avez bafouillé que non. Vous sentiez qu'il ne vous croyait pas tout à fait quand quelqu'un a frappé à la porte. La visite a semblé réjouir Lord BumbleTwit qui s'est exclamé "Vous me sauvez la vie mon cher, vous ne savez pas à quel point !" Il vous a ensuite recommandé d'ignorer les menaces du mauvais plaisant qui vous a envoyé une lettre de chantage. Payer ce genre de personnes ne fait que les encourager. Vous avez quitté le médium empli d'espoir en vous disant que grâce à lui, les choses allaient peut-être s'éclaircir.
 
-Lors des dernières années de votre père, Lord BumbleTwit était présent quotidiennement à la maison pour invoquer l'esprit de votre défunte mère et alléger son chagrin. L'accusation faite par l'esprit de votre père lors de la séance de divination vous a beaucoup perturbé. Vous avez l'intention de trouver le fin mot de cette histoire... En protégrant votre famille.
+Les choses se sont au contraire empirées. Lors de la séance de spiritisme, Lord BumbleTwit a invoqué l'esprit de votre père. Les fenêtres se sont couvertes de trace de mains des morts et une voix méconnaissable est sorti de la bouche du médium. Cette voix caverneuse est terrifiant possédait les mêmes accents que celle de votre père ! "C'est mon fils qui m'a tué !" Vous vous êtes mis à trembler de tout votre corps tandis que John s'est fendu d'un torrent d'injures.
 
-En parcourant le couloir pour aller dans le bureau de BumbleTwit, vous avez croisé votre frère à l'allure très remonté. Il ne vous a rien dit, c'est à peine s'il a fait attention à vous. Cependant, en rentrant dans le bureau, la pièce était étrangement silencieuse. Le fauteuil de BumbleTwit faisait dos à la porte et il vous a fallu vous rapprocher pour vous rendre compte que BumbleTwit était mort. Encore une fois, le caractère de votre frère lui avait joué des tours !
+Le médium, arguant qu'il était fatigué s'est alors eclipsé, vous laissant gérer tant bien que mal votre frère. Vous avez bien essayé de le ramener à la raison mais rien n'y faisait et il est parti voir Lord BumbleTwit pour lui dire sa façon de penser. Que faire dans ce cas là ? Vous ne pouviez pas rester les bras croisés tout de même ! Il fallait essayer de lui parler, le convaincre qu'il se trompait... Et zut ! En parcourant l'escalier pour aller dans le bureau de BumbleTwit, vous avez croisé votre frère à l'allure très remonté. Il ne vous a rien dit, c'est à peine s'il a fait attention à vous. Cependant, en rentrant dans le bureau de Lord BumbleTwit, vous avez trouvé la pièce étrangement silencieuse. Le fauteuil de BumbleTwit faisait dos à la porte et il vous a fallu vous rapprocher pour vous rendre compte que BumbleTwit était mort. Encore une fois, le caractère de votre frère lui avait joué des tours !
 
-Rester pragmatique. La mort de votre père n'a jamais été élucidée car l'affaire était tortueuse. Personne ne pourra accuser votre frère si un témoignage indique que Lord BumbleTwit était encore vivant ! Vous avez tiré sur la sonnette des domestiques pour appeler un domestique. Quand Jamie Butler a essayé d'ouvrir la porte du bureau, vous avez bloqué la porte et en imitant au mieux la voix de Lord BumbleTwit, vous lui avez sommé de partir en arguant qu'il s'agissait d'une erreur. Puis, afin de brouiller les pistes et essayer de protéger votre frère, vous avez pris le coupe papier et vous l'avez planté dans le corps de BumbleTwit. Vous avez présenté vos excuses au cadavre et vous vous êtes eclipsé discrètement. Personne ne vous a vu entrer et personne ne vous a vu sortir.
+Rester pragmatique. La mort de votre père n'a jamais été élucidée car l'affaire était tortueuse. Personne ne pourra accuser votre frère si un témoignage indique que Lord BumbleTwit était encore vivant ! Vous avez tiré sur la sonnette des domestiques pour appeler un domestique. Quand Archie Butler a essayé d'ouvrir la porte du bureau, vous avez bloqué la porte et en imitant au mieux la voix de Lord BumbleTwit, vous lui avez sommé de partir en arguant qu'il s'agissait d'une erreur. Puis, afin de brouiller les pistes et essayer de protéger votre frère, vous avez pris le coupe papier sur la table et vous l'avez planté dans le corps de BumbleTwit. Vous avez présenté vos excuses au cadavre et vous vous êtes eclipsé discrètement. Personne ne vous a vu entrer et personne ne vous a vu sortir et le domestique pourra dire que Lord BumbleTwit était vivant après avoir parlé avec John.
 
-Le corps a été découvert une heure plus tard.
+Le corps a été découvert une heure plus tard par Bobby Watson. C'est le docteur Derelict qui l'a analysé avant de déclarer : "vous voyez bien qu'il y a un couteau dans le corps !". Quel médecin de pacotille !
 
 ## Informations que vous voulez garder secrètes
 
@@ -58,12 +58,6 @@ Il y a plusieurs informations que vous préféreriez dissimuler. Vous ne pouvez 
 - Faites en sorte que John Bertham ne soit pas accusé de la mort de Lord BumbleTwit.
 - Trouvez qui a envoyé la lettre de chantage.
 - Trouvez pourquoi votre soeur est si distante.
-
-## Votre opinion sur les autres personnages
-
-**Lord BumbleTwit** : un gentleman à l'ancienne. Roublard, fantasque et orgueilleux mais bien attentionné.
-
-## Compétences
 
 ## Conseils de jeux
 

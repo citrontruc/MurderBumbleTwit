@@ -32,7 +32,7 @@ La formule que vous allez mettre au point est un de mes secrets les mieux gardé
 (8) Alors comme ça il est intoxiqué ?
 (9) Un sourire peut cacher bien des choses.
 (10) Puisque l'inspecteur semble décidé à me le donner.
-(11) Ce soir, il semblerait que tout le monde m'en veuille.
+(11) A changer
 (12) C'était une coureuse de longue distance je crois.
 (13) Aucune chance que je patiente aussi longtemps à Macondo.
 (14) Lettres entourées.

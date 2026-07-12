@@ -20,11 +20,11 @@ Lord BumbleTwit
 
 ## La murder party
 
-Lord BumbleTwit a toujours été un curieux personnage. Révéré comme haï, ce gentleman ne laisse pas indifférent. Medium reconnu, il est parvenu à construire sa fortune grâce à ses fameuses "séances" avec lesquels il dialogue avec les défunts. Sa fortune s'est construite en grande partie grâce aux généreux dons des mécènes qu'il a réussi à se trouver. Les autorités le laisse tranquille car ses talents de résurrection miraculeuses auraient même servi à résoudre plusieurs affaires criminelles.
+Lord BumbleTwit a toujours été un curieux personnage. Révéré comme haï, ce gentleman ne laisse pas indifférent. Medium reconnu, il est parvenu à construire sa fortune grâce à ses fameuses "séances" avec lesquels il dialogue avec les défunts. Ces événements à huis-clos lui ont toujours permis d'attirer un publique hétéroclite constitué de jeunes gens avides de frissons, de vieillards en deuil et d'artistes curieux. Et bien entendu de généreux mécènes.
 
-Parmi les mécènes de Lord BumbleTwit, intéressons-nous à Lord Bertham. Financier veuf misanthrope et acariatre, Lord Bertham a fait don de sommes colossales à Lord BumbleTwit pendant les trois mois où celui-ci est demeuré chez lui. Malheureusement, la mort est venue trop tôt et Lord Bertham a été assassiné dans bureau dans des circonstances suspectes. Cette affaire n'a jamais été résolue.
+Parmi les mécènes de Lord BumbleTwit, se trouvait Lord Bertham. Financier veuf, misanthrope et acariatre, Lord Bertham a fait don de sommes colossales à Lord BumbleTwit pendant les trois mois où celui-ci est demeuré chez lui. Pendant cette période, le médium utilisait ses talents afin de dialoguer avec l'esprit de Lady Bertham et de l'opinion de tous, cela avait permis à Lord Bertham de trouver une forme de paix. Malheureusement, celle-ci fut de courte durée car Lord Bertham finit assassiné dans bureau dans des circonstances suspectes. Cette affaire n'a jamais été résolue.
 
-Nous nous trouvons cinq ans plus tard. Lord BumbleTwit a depuis racheté le manoir de Lord Bertham. Vous pensiez que l'affaire de la mort de Lord Bertham était derrière vous quand Lord BumbleTwit vous a invité à une séance très particulière pendant laquelle l'esprit de Lord Bertham sera invoqué afin de l'interroger sur les circonstances de sa mort. Lors de cette soirée n'ont été invités que des gens triés sur le volet :
+Nous nous trouvons cinq ans plus tard. Lord BumbleTwit a depuis racheté le manoir de Bertham. Vous pensiez que l'affaire de la mort de Lord Bertham était derrière vous quand Lord BumbleTwit vous a invité à une séance très particulière pendant laquelle l'esprit de Lord Bertham sera invoqué afin de l'interroger sur les circonstances de sa mort. Lors de cette soirée n'ont été invités que des gens triés sur le volet :
 
 - Amanda Red : Experte comptable de Lord Bertham et sceptique notoire.
 - Le Dr Derelict : Médecin qui accompagnait Lord Bertham et inventeur à ses heures perdues.
@@ -32,12 +32,12 @@ Nous nous trouvons cinq ans plus tard. Lord BumbleTwit a depuis racheté le mano
 - Gabriel Bertham : Fils ainé de Lord Bertham et médecin.
 - Patience Bertham : Fille de Lord Bertham qui termine ses études de juriste.
 - Tybalt LeFol : Grand ami de Lord Bertham et adepte des arts obscurs.
-- Luca Mason : livreuse Amazon qui passait par là et a fini avec une coupe de champagne à la main.
+- Luca Mason : livreur Amazon qui passait par là et a fini avec une coupe de champagne à la main.
 
 Et les membres du personnel :
 
-- Archie Butler : Cheffe du personnel dirigeant la maison d'une main de fer.
-- Chris Lazarus : Homme à tout faire de la maison.
+- Archie Butler : Chef du personnel dirigeant la maison d'une main de fer.
+- Bobby Watson : Homme à tout faire de la maison.
 
 ## Wow ! et moi dans tout ça ?
 
@@ -56,7 +56,7 @@ Les informations que vous avez sur votre fiche de personnage sont censées donne
 - Quelles sont vos aspirations ?
 - Que pensez-vous de Lord BumbleTwit et des autres invités ?
 
-Si une information n'est pas sépcifiée dans votre fiche de personnage, vous pouvez à priori la remplir. Ah oui et n'oubliez pas : vous avez le droit de mentir.
+Si une information n'est pas spécifiée dans votre fiche de personnage, vous pouvez à priori la remplir. Ah oui et n'oubliez pas : vous avez le droit de mentir.
 
 ## Règles de sécurité
 

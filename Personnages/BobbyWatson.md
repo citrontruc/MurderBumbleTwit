@@ -1,6 +1,6 @@
-# Chris Lazarus
+# Bobby Watson
 
-- [Chris Lazarus](#Chris-Lazarus)
+- [Bobby Watson](#bobby-watson)
   - [Avez-vous tué quelqu'un ?](#avez-vous-tué-quelquun-)
   - [Qui êtes-vous ?](#qui-êtes-vous-)
   - [Votre emploi du temps](#votre-emploi-du-temps)
@@ -8,8 +8,6 @@
     - [5 ans plus tard : Lord BumbleTwit](#5-ans-plus-tard--lord-bumbletwit)
   - [Informations que vous voulez garder secrètes](#informations-que-vous-voulez-garder-secrètes)
   - [Objectifs](#objectifs)
-  - [Votre opinion sur les autres personnages](#votre-opinion-sur-les-autres-personnages)
-  - [Compétences](#compétences)
   - [Conseils de jeux](#conseils-de-jeux)
 
 ## Avez-vous tué quelqu'un ?
@@ -45,10 +43,6 @@ Il y a plusieurs informations que vous préféreriez dissimuler. Vous ne pouvez 
 - Tunnelisez quelqu'un pendant au moins 5 minutes en ralant sur les jeunes qui n'ont pas suffisamment la main verte.
 - Gagner le respect et la considération des membres de la famille Bertham.
 - Trouvez qui a tué le chef.
-
-## Votre opinion sur les autres personnages
-
-## Compétences
 
 ## Conseils de jeux
 

@@ -29,7 +29,7 @@ Lors des grandes réceptions et des séances de spiritisme, vous servez d'extra 
 
 Par le plus grand des hasards, vous étiez au manoir Bertham le jour de la mort de Lord Bertham. Par le plus grand des hasard, vous saviez que Lord BumbleTwit était sur place. Par le plus grand des hasards, vous aviez votre carnet d'autographe à la main et des jumelles pour vérifier qu'il n'y avait personne qui gardait l'entrée du personnel. Par le plus grand des hasard, cette porte débouchait sur le petit salon où vous vous disiez que Lord BumbleTwit devait bien passer et qu'il pourrait alors vous signer un autographe.
 
-Vous avez alors vu passer Clara BlueFinch, la domestique des Bertham. Son tablier était taché de sang et son regard hagard. Vous l'avez suivi dans le jardin où elle a jeté quelque chose.
+Vous avez alors vu passer Carl BlueFinch, la domestique des Bertham. Son tablier était taché de sang et son regard hagard. Vous l'avez suivi dans le jardin où elle a jeté quelque chose.
 
 ### Quelques jours avant la réception
 
