@@ -31,7 +31,7 @@ Il y a des gens qui sont nés avec un balais dans le cul et il y en a qui ont la
 
 Fort heureusement, le grand magicien BumbleTwit parvenait à calmer les colères de votre père en invoquant l'esprit de votre défunte mère lors de séances de spiritisme. Lors de ces séances, plusieurs miracles se produisaient.
 
-Le jour la mort de votre père, vous avez appris que celui-ci souhaitait modifier son testament pour léguer sa fortune à Lord BumbleTwit. Furieux par cette tournure des événements (vous aviez besoin de l'argent pour financer un projet de cabaret et si le vieillard ne voulait pas clamser, vous auriez aimé l'étrangler), vous vous êtes rué vers la chambre de votre père. La porte étant fermée à clé, vous avez gueulé pendant vingt bonnes minutes devant la porte. Vous vous êtes ensuite senti profondément ridicule. D'autant plus quand Sonia est passé dans le couloir et vous a demandé "tout va bien monsieur ?". Vous êtes descendu dans le jardin pour vous changer les idées. C'est alors que vous avez vu Lord BumbleTwit. Vous lui avez parlé de théâtre pendant une bonne heure. En revenant de votre promenade, Bobby Watson et Carla Bluefinch (le jardinier et la domestique de la maison Bertham) vous ont appris que votre père était mort égorgé.
+Le jour la mort de votre père, vous avez appris que celui-ci souhaitait modifier son testament pour léguer sa fortune à Lord BumbleTwit. Furieux par cette tournure des événements (vous aviez besoin de l'argent pour financer un projet de cabaret et si le vieillard ne voulait pas clamser, vous auriez aimé l'étrangler), vous vous êtes rué vers la chambre de votre père. La porte étant fermée à clé, vous avez gueulé pendant vingt bonnes minutes devant la porte. Vous vous êtes ensuite senti profondément ridicule. D'autant plus quand Archie est passé dans le couloir et vous a demandé "tout va bien monsieur ?". Vous êtes descendu dans le jardin pour vous changer les idées. C'est alors que vous avez vu Lord BumbleTwit. Vous vous êtes alors promené dans la grande propriété tout en parlant de théâtre pendant une bonne heure. En revenant de votre promenade, Chris Lazarus et Carl Bluefinch (le jardinier et la domestique de la maison Bertham) vous ont appris que votre père était mort égorgé.
 
 Quelle aubaine ! La maison a été vendue et vous avez pu financer votre projet de cabaret !
 
@@ -57,7 +57,7 @@ Vous n'avez rien à cacher ! Vous êtes l'auteur d'une conspiration inique contr
 
 ## Objectifs
 
-- Trouvez une manière d'améliorer les résultats de votre cabaret à coûts raisonnables.
+- Tunnelisez quelqu'un pendant au moins 5 minutes en ralant sur les jeunes qui ne vont pas suffisamment au théâtre.
 - Trouvez une explication rationnelle à tous les événements qui se sont produits lors de la séance de spiritisme.
 - Ne finissez pas accusé de la mort de Lord BumbleTwit.
 

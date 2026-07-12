@@ -1,11 +1,11 @@
 # Emploi du temps
 
 - 13h Déjeuner avec T et le docteur. Revoir les détails de la soirée.
-- 15h Voir avec Sonia & Bobby pour les vins et le repas de la soirée.
+- 15h Voir avec Archie & Chris pour les vins et le repas de la soirée.
 - 17h Absent
 - 18h - Rdv avec Amanda Red dans mon bureau.
-- 18h30 - Rdv avec John Bertham.
-- 19h - Rdv avec K.L. dans mon bureau.
+- 18h30 - Rdv avec John Bertham dans mon bureau.
+- 19h - Rdv.
 - 19h30 Soirée + Diner.
 - 21h30 Séance de spiritisme.
 

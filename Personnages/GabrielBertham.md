@@ -27,7 +27,7 @@ Fils ainé de Lord Bertham, vous avez fait des études de médecine et êtes à 
 
 Vous penchant sur le corps de Lord Bertham.
 
-Votre frère a un caractère sanguin. Vous saviez qu'il avait une relation houleuse avec votre père. A vrai dire, quelques heures avant la mort de celui-ci, vous avez entendu les deux se disputer. Quand vous en avez parlé à Lord BumbleTwit plus tard, il vous a encouragé à vous taire.
+Votre frère a un caractère sanguin. Vous saviez qu'il avait une relation houleuse avec votre père. A vrai dire, quelques heures avant la mort de celui-ci, vous avez entendu les deux se disputer dans le bureau depuis votre chambre.
 
 Vous en avez jamais vraiment voulu à votre frère d'avoir tué votre père. Cependant, votre relation s'est fortement détérioré depuis l'événement. Vous avez arrêté de vous voir. Après la vente de la demeure Bertham, vous vous êtes perdu de vue pendant des années.
 
@@ -39,11 +39,13 @@ Par mesure de sécurité, vous avez envoyé les mille livres.
 
 ### Lord BumbleTwit
 
+Vous avez vu le matin Lord BumbleTwit afin de lui faire part de
+
 Lors des dernières années de votre père, Lord BumbleTwit était présent quotidiennement à la maison pour invoquer l'esprit de votre défunte mère et alléger son chagrin. L'accusation faite par l'esprit de votre père lors de la séance de divination vous a beaucoup perturbé. Vous avez l'intention de trouver le fin mot de cette histoire... En protégrant votre famille.
 
 En parcourant le couloir pour aller dans le bureau de BumbleTwit, vous avez croisé votre frère à l'allure très remonté. Il ne vous a rien dit, c'est à peine s'il a fait attention à vous. Cependant, en rentrant dans le bureau, la pièce était étrangement silencieuse. Le fauteuil de BumbleTwit faisait dos à la porte et il vous a fallu vous rapprocher pour vous rendre compte que BumbleTwit était mort. Encore une fois, le caractère de votre frère lui avait joué des tours !
 
-Rester pragmatique. Personne ne pourra accuser votre frère si un témoignage indique que Lord BumbleTwit était encore vivant ! Vous avez tiré sur la sonnette des domestiques pour appeler un domestique. Quand Jamie Butler a essayé d'ouvrir la porte du bureau, vous avez bloqué la porte et en imitant au mieux la voix de Lord BumbleTwit, vous lui avez sommé de partir en arguant qu'il s'agissait d'une erreur. Puis, afin de brouiller les pistes et essayer de protéger votre frère, vous avez pris le coupe papier et vous l'avez planté dans le corps de BumbleTwit. Vous avez présenté vos excuses au cadavre et vous vous êtes eclipsé discrètement. Personne ne vous a vu entrer et personne ne vous a vu sortir.
+Rester pragmatique. La mort de votre père n'a jamais été élucidée car l'affaire était tortueuse. Personne ne pourra accuser votre frère si un témoignage indique que Lord BumbleTwit était encore vivant ! Vous avez tiré sur la sonnette des domestiques pour appeler un domestique. Quand Jamie Butler a essayé d'ouvrir la porte du bureau, vous avez bloqué la porte et en imitant au mieux la voix de Lord BumbleTwit, vous lui avez sommé de partir en arguant qu'il s'agissait d'une erreur. Puis, afin de brouiller les pistes et essayer de protéger votre frère, vous avez pris le coupe papier et vous l'avez planté dans le corps de BumbleTwit. Vous avez présenté vos excuses au cadavre et vous vous êtes eclipsé discrètement. Personne ne vous a vu entrer et personne ne vous a vu sortir.
 
 Le corps a été découvert une heure plus tard.
 

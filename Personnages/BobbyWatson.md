@@ -1,6 +1,6 @@
-# Bobby Watson
+# Chris Lazarus
 
-- [Bobby Watson](#bobby-watson)
+- [Chris Lazarus](#Chris-Lazarus)
   - [Avez-vous tué quelqu'un ?](#avez-vous-tué-quelquun-)
   - [Qui êtes-vous ?](#qui-êtes-vous-)
   - [Votre emploi du temps](#votre-emploi-du-temps)
@@ -32,8 +32,6 @@ Quand Lord BumbleTwit a racheté la maison, il vous a naturellement racheté ave
 
 ### 5 ans plus tard : Lord BumbleTwit
 
-Voila qui est fort chelou. Vous avez reçu dans l'après-midi une missive de la part de Lord BumbleTwit vous indiquant que les comptes - que vous vous evertuez pourtant à équilibrer jour et nuit - seraient inexacts ! Si jamais la nouvelle venait à s'ébruiter, cela serait sans nul doute une source de deshonneur immense !
-
 Vous étiez dans le jardin en train de vous griller une clope peinard quand vous avez remarqué le doc qui se barrait vers la piaule en suivant Tybalt. L'avait déjà l'air bien beurré le toubib. Un peu plus tard, une autre personne est passée mais vous zavez pas fait gaffe à qui c'était (et y faudrait pas qu'on vous voit glander non plus).
 
 ## Informations que vous voulez garder secrètes
@@ -49,10 +47,6 @@ Il y a plusieurs informations que vous préféreriez dissimuler. Vous ne pouvez 
 - Trouvez qui a tué le chef.
 
 ## Votre opinion sur les autres personnages
-
-- **Lord BumbleTwit** : L'aristo. Sympa mais chelou.
-- **Sonia Butler** : La grande boss ! Jamais tranquille avec elle.
-- **Jamie Butler** : .
 
 ## Compétences
 

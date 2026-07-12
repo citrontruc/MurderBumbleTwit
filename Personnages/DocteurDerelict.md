@@ -4,8 +4,8 @@
   - [Avez-vous tué quelqu'un ?](#avez-vous-tué-quelquun-)
   - [Qui êtes-vous ?](#qui-êtes-vous-)
   - [Votre emploi du temps](#votre-emploi-du-temps)
-    - [Lord Bertham](#lord-bertham)
-    - [5 ans plus tard - Lord BumbleTwit](#5-ans-plus-tard---lord-bumbletwit)
+    - [Il y a 5 ans - Lord Bertham](#il-y-a-5-ans---lord-bertham)
+    - [Lord BumbleTwit](#lord-bumbletwit)
   - [Informations que vous voulez garder secrètes](#informations-que-vous-voulez-garder-secrètes)
   - [Objectifs](#objectifs)
   - [Votre opinion sur les autres personnages](#votre-opinion-sur-les-autres-personnages)
@@ -14,21 +14,29 @@
 
 ## Avez-vous tué quelqu'un ?
 
+C'est vous qui avez tué Lord BumbleTwit (peut-être, en fait vous n'en êtes pas sûr).
+
 ## Qui êtes-vous ?
 
 Médecin alcoolique et coureur, vous parvenez difficilement à survivre en tant que praticien. Votre haleine avinée repousse les clients les plus amateurs de risque et vos gains servent à acheter des cadeaux à vos maitresses. Votre source de revenu la plus stable est Lord BumbleTwit qui vous commande souvent des inventions ingénieuses : Machines à fumée, papier flash... Vous êtes l'expert dans le domaine. Lord BumbleTwit sert aussi d'intermédiaire pour vendre vos inventions à des théâtres, cirques et autres.
+
+Vous avez cependant récemment appris que Lord BumbleTwit
 
 ## Votre emploi du temps
 
 **IMPORTANT** : Vous fumez.
 
-### Lord Bertham
+### Il y a 5 ans - Lord Bertham
 
 C'est vous qui avez introduit Lord BumbleTwit à Lord Bertham.
 
-La matinée de la mort de Lord Bertham, vous étiez en train d'étudier la dynamique des fluides dans le cellier du manoir quand vous avez entendu des bruits de pas loin de là où vous vous trouviez. Avisant la porte de service, vous avez vu Jamie Butler (frère de Sonia Butler. Un taré) qui rentrait. Comme vous étiez camouflé dans votre environnement naturel, il ne vous a pas remarqué. Le fait ne vous semblait guère intéressant jusqu'à ce que vous entendiez des cris venant de l'étage.
+La matinée de la mort de Lord Bertham, vous étiez en train d'étudier la dynamique des fluides dans le cellier du manoir quand vous avez entendu des bruits de pas non loin de là où vous vous trouviez. Avisant la porte de service vous avez alors vu passer Clara BlueFinch, la domestique des Bertham. Son tablier était taché de sang et son regard hagard. Comme vous étiez camouflé dans votre environnement naturel, elle ne vous a pas remarqué. Vous l'avez suivi dans le jardin où elle a jeté quelque chose. Le fait ne vous semblait guère intéressant jusqu'à ce que vous retourniez au manoir pour y entendre des cris venant de l'étage. On venait de tuer Lord Bertham !
 
-### 5 ans plus tard - Lord BumbleTwit
+### Lord BumbleTwit
+
+Vous êtes arrivé à la soirée bien décidé à tuer Lord BumbleTwit. Cela faisait maintenant des années que vous lui fournissiez vos ingénieuses inventions pour servir ses numéros de medium. A vrai dire, vous vous considérez comme le véritable architecte de ses spectacles ! Malgré tout le génie que vous avez déployé, vous n'avez jamais brillé. Ce sont toujours les premiers roles qui sont célébrés, jamais les équipes techniques ! (Votre alcolisme n'a pas aidé d'ailleurs). Bien décidé à vous venger, vous êtes arrivé le soir avec dans votre trousse médicale une bouteille de cyanure.
+
+Vous avez passé une heure 
 
 Juste avant la séance de spiritisme, vous avez vu Tybalt rentrer. C'est un de vos amis et vous auriez adoré lui parlé mais il a rapidement disparu.
 
@@ -38,13 +46,13 @@ Après la séance de spiritisme, vous étiez en train de vous promener sur le ba
 
 Il y a plusieurs informations que vous préféreriez dissimuler. Vous ne pouvez pas révéler ces informations de vous-mêmes. Si un autre joueur vous pose des questions sur ces sujets, évitez les questions, échappez vous ou indignez-vous qu'on vous soupçonne de tels faits. Si un autre joueur vous présente l'information (il a découvert le peau aux roses), vous pouvez reconnaitre les faits mais que à ce joueur.
 
-- Pendant toute la soirée, vous avez laissé votre malette médicale sans surveillance. En la retrouvant le soir, vous avez remarqué qu'on avait fouillé dedans. Vous ne sauriez pas dire ce qui a été pris car vous ne saviez pas ce qu'il y avait dedans à l'origine. Un nouveau scandale attaché à vous est la dernière chose dont vous avez besoin.
+- Vous avez tué Lord BumbleTwit.
 
 ## Objectifs
 
-- Découvrez qui a fouillé dans votre malette médicale (indices : 3 personnes)
-- Trouvez quelqu'un qui est prêt à financer votre prochaine invention révolutionnaire !
-- Trouvez qui a tué Lord BumbleTwit.
+- Trouvez qui a volé le cyanure dans votre malette médicale.
+- Faites en sorte que personne ne vous soupçonne du meurtre de Lord BumbleTwit.
+- Trouvez une manière de lancer votre premier spectacle.
 
 ## Votre opinion sur les autres personnages
 
@@ -52,4 +60,5 @@ Il y a plusieurs informations que vous préféreriez dissimuler. Vous ne pouvez 
 
 ## Conseils de jeux
 
+- Si jamais on vous interroge sur le contenu de votre trousse médicale, ayez une excuse pour expliquer la présence du cyanure.
 - Amusez-vous bien.

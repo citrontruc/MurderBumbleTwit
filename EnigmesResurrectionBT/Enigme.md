@@ -3,7 +3,6 @@
 - [L'enigme](#lenigme)
   - [But de l'enigme](#but-de-lenigme)
   - [Texte à remplir](#texte-à-remplir)
-  - [Un lieu](#un-lieu)
   - [Un mot](#un-mot)
 
 ## But de l'enigme
@@ -20,7 +19,7 @@ La formule que vous allez mettre au point est un de mes secrets les mieux gardé
 - 30000(4) mg (11)mal(t) de Berlin(5)
 - Une pincée de Gingembre(8)
 - Un grain de sel(10)
-- Quelques gouttes d'un vinaigre d'un vin ayant vieilli 100(13) ans
+- Quelques gouttes de (vinaigre de vin)(14) vieilli 100(13) ans
 - 4(3) pétales d'un bouquet de Clowns(6) cueilli à Budapest(12).
 
 (1) On prétend que j'ai un grain. Amanda ne l'aime pas en tout cas.
@@ -36,11 +35,8 @@ La formule que vous allez mettre au point est un de mes secrets les mieux gardé
 (11) Ce soir, il semblerait que tout le monde m'en veuille.
 (12) C'était une coureuse de longue distance je crois.
 (13) Aucune chance que je patiente aussi longtemps à Macondo.
-
-## Un lieu
-
-Rappelle-toi la ville où nous avons rencontrer une coureuse de longue distance... Quoique, j'ai un doute sur la traduction.
+(14) Lettres entourées.
 
 ## Un mot
 
-Mettez ici un mot écarlate (il s'agit du mort "sanglantes" qui est écrit en rouge sur l'invitation reçue par Tybalt LeFol).
+Mettez ici un mot éCarlte (il s'agit du mort "sanglantes" qui est écrit en rouge sur l'invitation reçue par Tybalt LeFol).

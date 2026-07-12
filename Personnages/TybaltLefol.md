@@ -42,7 +42,7 @@ Vous n'êtes revenu sur place que pour la séance de spiritisme. Vous êtes arri
 
 Vous avez pris votre place dans le passage secret pour jouer votre rôle dans le faux acte de spiritisme.
 
-Après la représentation Lord BumbleTwit va toujours se réfugier dans son bureau soit-disant pour "se reposer". Vous avez utilisé le passage secret qui mène au bureau de Lord BumbleTwit afin de pouvoir le voir et tenter de vous expliquer avec lui. Il avait l'air extrêmement fatigué. Assis dans son fautueil, un verre de son gin favori posé sur la table basse, il regardait dans le vague et n'a guère preté attention à ce que vous lui disiez, alors vous avez fini par vous taire.
+Après la représentation Lord BumbleTwit va toujours se réfugier dans son bureau soit-disant pour "se reposer". Vous avez utilisé le passage secret qui mène au bureau de Lord BumbleTwit afin de pouvoir le voir et tenter de vous expliquer avec lui. Il avait l'air extrêmement fatigué. Assis dans son fautueil, un verre de son gin favori posé sur la table basse à côté du cendrier, il regardait dans le vague et n'a guère preté attention à ce que vous lui disiez, alors vous avez fini par vous taire.
 
 C'est à ce moment que Lord BumbleTwit vous a regardé dans les yeux et a dit "mon ami, vous ne savez pas ce que vous avez fait." Vous auriez aimé en savoir plus, mais on a alors frappé à la porte. Vous avez juste eu le temps de vous sauver par le passage secret par lequel vous étiez entré et à regagner le grand salon avec les autres invités.
 

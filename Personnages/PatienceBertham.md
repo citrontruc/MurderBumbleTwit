@@ -14,11 +14,11 @@
 
 ## Avez-vous tué quelqu'un ?
 
-Vous avez (sans doute) tué Lord BumbleTwit (mais vous n'en êtes pas sûre). Vous avez empoisonné son verre avec du curare.
+Vous avez (sans doute) tué Lord BumbleTwit (mais vous n'en êtes pas sûre). Vous avez empoisonné son verre.
 
 ## Qui êtes-vous ?
 
-Fille de Lord Bertham, vous avez toujours été quelqu'un de très discrète et légèrement malicieuse. Vous aviez 15 ans lors de la mort de votre père, vous en avez 20 maintenant.
+Fille de Lord Bertham, vous avez toujours été quelqu'un de très discrète et légèrement malicieuse. Vous aviez 15 ans lors de la mort de votre père, vous en avez 20 maintenant. Vous terminez vos études de juriste.
 
 ## Votre emploi du temps
 
@@ -49,19 +49,17 @@ Vous n'avez rien dit à la police. En partie parce que vous vous sentez responsa
 
 Comment est-ce que les choses ont pu empirer à ce point ?
 
-Lord BumbleTwit vous avait donné rendez-vous en ville avant la séance de spiritisme. Il semblait tendu et il vous a rapidement mis au courant de ce qui le tracassait : il avait reçu une menace et pensait que quelqu'un voulait le faire chanter pour la mort de Lord Bertham.
+La séance de spiritisme organisée par Lord BumbleTwit vous a beaucoup effrayée. Que voulait-il donc accomplir au juste ? Vouas avez été d'autant plus effrayé quand vous avez reçu un billet vous donnant rendez-vous en ville en amont de la séance de spiritisme. Lord du rendez-vous, Lord BumbleTwit semblait tendu et il vous a rapidement mis au courant de ce qui le tracassait : il avait reçu une lettre de menace et pensait que quelqu'un voulait le faire chanter pour la mort de Lord Bertham.
 
-- Ce ne serait pas vous qui essaie de me faire chanter ?
+- Ce ne serait pas vous qui essayez de me faire chanter ?
 - Bien sûr que non !
-- Voila qui est heureux.
+- Voila qui est heureux. Cette affaire n'a que trop duré. Je compte bien la clore une bonne fois pour toute ce soir.
 
-Son ton affable cachait à peine le tranchant de l'implication.
+Son ton affable cachait à peine le tranchant de l'implication. Il vous quitta sur ces mots.
 
-- Je crois qu'une personne m'a vu sortir du passage secret le jour de la mort de Lord Bertham. Ce soir, j'ai bien l'intention de lui montrer qu'on ne se moque pas de moi.
+C'est avec appréhension que vous vous êtes rendu à la demeure de Lord BumbleTwit dans la soirée. Il avait des rendez-vous dans l'après-midi et vous n'avez pas eu l'occasion d'échanger de nouveau avec lui. Tous les membres de la réception semblaient également dans l'expectative de ce qui pouvait se passer. Ne vous sentant pas en sécurité, vous vous êtes dit qu'il vous fallait une manière de vous défendre au cas où les choses venaient à empirer. Avisant la trousse du docteur Derelict, vous avez profité de son inattention afin de subtiliser une bouteille à l'allure menaçante qui se trouvait dans son sac.
 
-Juste après la séance de spiritisme, vous avez voulu calmer Lord BumbleTwit. C'était absurde de soupçonner John Bertham ! Il a une grande gueule mais il ne ferait pas de mal à une mouche ! Peut-être pourriez-vous le ramener à la raison ? Peut-être serait-il possible de le faire changer d'avis ? Vous avez alors repensé à votre père et à la manière dont BumbleTwit l'a assassiné : sans un mot, de sang froid et tout ça pour une menace. Vous avez alors réalisé que cette affaire ne pourrait se finir que dans le sang et que BumbleTwit vous tuerait impitoyablement si cela lui permettait de se sauver.
-
-Vous avez volé dans la sacoche du docteur Derelict une fiole de curare puis vous avez emprunté le passage secret qui mène au bureau de Lord BumbleTwit. Profitant du fait qu'il dormait dans son fauteuil, vous avez versé le curare dans le verre de gin sur la table basse.
+Juste après la séance de spiritisme, vous avez voulu calmer Lord BumbleTwit. C'était absurde de soupçonner John Bertham ! Il a une grande gueule mais il ne ferait pas de mal à une mouche ! Peut-être pourriez-vous le ramener à la raison ? Peut-être serait-il possible de le faire changer d'avis ? Vous avez alors repensé à votre père et à la manière dont BumbleTwit l'a assassiné : sans un mot, de sang froid et tout ça pour une menace. Vous avez alors réalisé que cette affaire ne pourrait se finir que dans le sang et que BumbleTwit vous tuerait impitoyablement si cela lui permettait de se sauver. Vous avez alors décidé d'éteindre cette menace qui planait sur votre vie une bonne fois pour toute. Cette maison Profitant du fait qu'il dormait dans son fauteuil, vous avez versé le curare dans le verre de gin sur la table basse.
 
 Une heure plus tard, le corps de Lord BumbleTwit a été découvert... avec un couteau dans le coeur ?
 

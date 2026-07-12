@@ -19,7 +19,7 @@ Non.
 
 ## Qui êtes-vous ?
 
-Jamie Butler, la jeune soeur de Sonia Butler (la cheffe majordome de Lord BumbleTwit). Vous êtes quelqu'un de fourbe et mesquin.
+Jamie Butler, la jeune soeur de Archie Butler (la cheffe majordome de Lord BumbleTwit). Vous êtes quelqu'un de fourbe et mesquin.
 
 Lors des grandes réceptions et des séances de spiritisme, vous servez d'extra (aide à la cuisine et au service).
 
@@ -63,7 +63,7 @@ Il y a plusieurs informations que vous préféreriez dissimuler. Vous ne pouvez 
 
 ## Votre opinion sur les autres personnages
 
-**Sonia Butler** : Vous êtes maladivement jaloux de Sonia et vous convoitez sa position de toute votre âme. Elle a beau vous couvrir de cadeaux et d'affection, c'est presque pire ! Votre amour propre en souffre ! A vrai dire, vous êtes jaloux de quiconque approche BumbleTwit.
+**Archie Butler** : Vous êtes maladivement jaloux de Archie et vous convoitez sa position de toute votre âme. Elle a beau vous couvrir de cadeaux et d'affection, c'est presque pire ! Votre amour propre en souffre ! A vrai dire, vous êtes jaloux de quiconque approche BumbleTwit.
 
 ## Compétences
 

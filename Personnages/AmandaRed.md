@@ -18,7 +18,7 @@ Non.
 
 ## Qui êtes-vous ?
 
-Financière sagace et pragmatique, vous croyez dur comme fer en la supériorité de la raison sur les croyances. Vous travailliez en tant que conseillère financière de Lord Bertham. C'est à ce moment que vous avez rencontré Lord BumbleTwit.
+Experte comptable sagace et pragmatique, vous croyez dur comme fer en la supériorité de la raison sur les croyances. Vous travailliez en tant que conseillère financière de Lord Bertham. C'est à ce moment que vous avez rencontré Lord BumbleTwit.
 
 ## Votre emploi du temps
 
@@ -34,15 +34,17 @@ Quelques jours avant sa mort, Lord Bertham voulait léguer sa fortune à Lord Bu
 
 Sur le souhait des enfants Bertham, vous avez mis la maison à vendre et Lord BumbleTwit s'est empressé de se porter acheteur. Comme quoi le charlatanisme paie bien.
 
-Plus tard, la police vous a contacté. on avait retrouvé l'arme du crime : un couteau qui appartenait à John Bertham. On voulait vérifier vos empreintes digitales pour vérifier si elles correspondaient (bien entendu, ce n'était pas le cas). Les autorités avaient testé les empreintes de plusieurs personnes dans la maisonnée sans succès. Ils n'avaient pas réussi à retrouver Carla BlueFinch, la domestique de Lord Bertham pour faire des tests.
+Plus tard, la police vous a contacté. on avait retrouvé l'arme du crime : un couteau qui appartenait à John Bertham. On voulait vérifier vos empreintes digitales pour vérifier si elles correspondaient (bien entendu, ce n'était pas le cas). Les autorités avaient testé les empreintes de plusieurs personnes dans la maisonnée sans succès. Ils n'avaient pas réussi à retrouver Carl BlueFinch, la domestique de Lord Bertham pour faire des tests.
 
 ### 5 ans plus tard : Lord BumbleTwit
 
-Vous êtes arrivée en avance à votre rendez-vous avec Lord BumbleTwit. Vous savez que ce grigou aime bien contrôler les gens alors par pur esprit de provocation, vous êtes arrivés en avance pour essayer de surprendre ses préparatifs. Sans attendre qu'un domestique vous conduise jusqu'à lui, vous avez filé vers son bureau où vous espériez le trouver affairé à je ne sais quel tour de prestidigigateur. Quel n'a pas été votre surprise en découvrant Sonia Butler - la cheffe majordome - en train de fouiller dans ses papiers. Prise sur le fait, elle a rougi, bafouillé une excuse et est partie chercher BumbleTwit. Vous auriez bien aimé savoir ce qu'elle cherchait quand BumbleTwit est apparu dans l'embrasure de la porte. Sourire au lèvre, élégance anglais impeccable. Le succès d'un bon arnaqueur tient aux apparences dit-on. Sur ce volet, BumbleTwit excelle.
+Vous êtes arrivée en avance à votre rendez-vous avec Lord BumbleTwit. Vous savez que ce grigou aime bien contrôler les gens alors par pur esprit de provocation, vous êtes arrivés en avance pour essayer de surprendre ses préparatifs. Sans attendre qu'un domestique vous conduise jusqu'à lui, vous avez filé vers son bureau où vous espériez le trouver affairé à je ne sais quel tour de prestidigigateur. Quel n'a pas été votre surprise en découvrant Archie Butler - la cheffe majordome - en train de fouiller dans ses papiers. Prise sur le fait, elle a rougi, bafouillé une excuse et est partie chercher BumbleTwit. Vous auriez bien aimé savoir ce qu'elle cherchait quand BumbleTwit est apparu dans l'embrasure de la porte. Sourire au lèvre, élégance anglais impeccable. Le succès d'un bon arnaqueur tient aux apparences dit-on. Sur ce volet, BumbleTwit excelle.
 
 Après avoir échangé des impolitesses pendant une vingtaine de minutes,
 
 Malheureusement au cours du repas, on vous a servi par accident un plat contenant des cacahuètes. Avec un sourire gêné, vous avez quitté la table en prétextant un coup de téléphone urgent à passer. Etant allergique, vous avez dû vous rendre aux cabinets de toute urgence. Afin de ne pas embarasser une lady, le reste de la scène ne sera pas dévrit. Toujours est-il que vous avez raté la séance de spiritisme.
+
+Coincé dans les sanitaires, vous avez cependant pu observer depuis la fenêtre Tybalt dans le jardin qui semblait contourner la maison avant la séance et vous l'avez observé partir en sens inverse après.
 
 Sur le chemin du retour au salon, vous avez trouvé la malette du docteur Derelict qui trainait et vous avez prélevé quelques médicaments contre les allergies puis vous vous êtes arrêtée au salon pour récupérer de votre crise.
 
