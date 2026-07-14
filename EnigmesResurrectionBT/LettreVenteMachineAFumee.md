@@ -4,7 +4,7 @@
 
 Lettre d'un théâtre qui est prêt à acheter la machine à fumée pour la somme de 50 000 livres.
 
-"MyLord,
+"My Lord,
 
 Votre machine a fumée est tout bonnement phénoménale ! Je serai très heureux de pouvoir en doter ma salle de théâtre. Vous trouverez joint à cette missive un chèque de 50 000 livres. Si vous voulez vendre d'autres inventions, je vous prie de me contacter en toute diligence !
 

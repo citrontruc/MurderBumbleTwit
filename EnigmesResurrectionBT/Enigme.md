@@ -17,25 +17,32 @@ La formule que vous allez mettre au point est un de mes secrets les mieux gardé
 - (Une tasse de thé)(7) noir(2) à la cannelle(9).
 - Du poivre(1) du Seylan.
 - 30000(4) mg (11)mal(t) de Berlin(5)
-- Une pincée de Gingembre(8)
-- Un grain de sel(10)
-- Quelques gouttes de (vinaigre de vin)(14) vieilli 100(13) ans
+- Un peu de Gingembre(8)
+- Une pincée de Sucre(15)
+- Du jus d'Orange(17) sanguine(18)
+- (Un grain de sel)(10)
+- Quelques gouttes de (vinaigre de vin)(14) vieilli de (100 ans)(13)
+- Zeste de citron.(16)
 - 4(3) pétales d'un bouquet de Clowns(6) cueilli à Budapest(12).
 
-(1) On prétend que j'ai un grain. Amanda ne l'aime pas en tout cas.
-(2) On prétend que je perd la boule. Laquelle ? De quelle couleur ?
+(1) Amanda dit que j'ai un grain. J'en connais un autre qu'elle aime.
+(2) On prétend que je perd la boule. Laquelle ?
 (3) Je suis un homme connu et occupé ! J'avais X rdv dans l'après-midi !
 (4) Je me suis fait bien de l'argent en vendant du vent ! Combien exactement ? 30 000 €
 (5) Une ville : Une très belle ville, mais ce n'est pas en Angleterre que je pourrais dépenser cette pièce.
 (6) C'est mon bouquet préféré.
 (7) Ainsi donc, mon argent va servir à cela ? Heureusement que je ne serai plus là pour voir cela.
-(8) Alors comme ça il est intoxiqué ?
+(8) Alors comme ça il ne pourra pas venir ?
 (9) Un sourire peut cacher bien des choses.
-(10) Puisque l'inspecteur semble décidé à me le donner.
+(10) Puisque John semble décidé à me le donner.
 (11) A changer
 (12) C'était une coureuse de longue distance je crois.
-(13) Aucune chance que je patiente aussi longtemps à Macondo.
+(13) Espérons qu'il y a des choses à faire à Macondo.
 (14) Lettres entourées.
+(15) J'ai caché cet ingrédient dans mon livre. A quelle page déjà ?
+(16) Quelques majuscules se sont égarées.
+(17) Journal cher journal, quel est cet ingrédient ?
+(18) Dans une invitation, trouvez un mot cramoisi.
 
 ## Un mot
 

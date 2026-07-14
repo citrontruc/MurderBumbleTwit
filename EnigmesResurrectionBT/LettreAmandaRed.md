@@ -12,6 +12,6 @@ Je serai présente à votre séance de spiritisme et j'espère bien vous confond
 
 Une fois votre deshonneur complet et votre honte consommée, n'hésitez pas à repasser au club, vos histoires fantasques sont toujours hilarantes à écouter.
 
-Inamicalement votre,
+InamicaleEment votre,
 
 Amanda Red

@@ -4,9 +4,9 @@
 
 Cher ami,
 
-J'ai reçu votre invitation et j'envoie la présente missive afin de vous supplier d'annuler cette séance de spiritisme. Vous savez toute l'affection que j'ai pour vous et j'aimerais faire appel à votre générosité. Vous nous avez été d'une grande aide à la mort de notre défunt père et vos conseils nous ont permis de réaliser nos aspirations.
+J'ai reçu votre invitation pour la séance de spiritisme. Si je me réjouis de vous voir, je vous prierai de réconsidérer le fait de parler avec l'esprit de mon père. Vous savez toute l'affection que j'ai pour vous et j'aimerais faire appel à votre à vos sentiments les plus élevés, ne gachons pas une si belle occasion de se voir avec une affaire aussi sinistre ! J'aurais notammment quelques conseils à vous demander sur une affaire d'argent.
 
-Je vous implore donc de ne pas chercher à troubler la sérénité que vous avez oeuvré si dur à nous procurer. Veuillez reconsidérer votre action d'essayer de parler avec le fantôme de notre père. Laissons dormir les morts et ayons pitié des vivants. Je serais prêt à tout pour défendre ce qu'il reste de ma famille.
+Je vous implore donc de ne pas chercher à troubler la sérénité que nous Tavons mis si longtemps à retrouver. Laissons dormir les morts et ayons pitié des vivants.
 
 Amicalement votre
 
